@@ -1,0 +1,25 @@
+We plan to annotate news headlines for type-of-sarcasm detection/classification. Upon completion of annotation and adjudication, we will train a classifier on the headlines to predict the type of sarcasm.
+
+We found a dataset on Kaggle.com containing plenty (26000+) news headlines from Huffpost and The Onion.
+
+Although the data contains bianry labels, we will strip these and annotate the TYPE of sarcasm that it contains (or None if it does not contain any). See below for more details.
+
+Even just reading the current headlines from The Onion gave a sense that there is indeed different types of sarcasm present.
+
+Drawing inspiration from https://simplicable.com/storytelling/sarcasm, we've drafted the following descriptions for our categories:
+
+None: The headline seems to describe a real event or article of interest that is not playful, jesting, or intentionally humorous in any way. It likely came from a legitimate news source (HuffPost) as opposed to an entertainment media source (The Onion).
+Irony: The headline describes something that is opposite of reality or what one would expect.
+Humor: The headline's main intention is to be funny or to evoke laughter from the audience.
+Satire: The headline "draws attention to political [or] social issues."
+
+We may revisit these after digging a little deeper into the data, but we anticipate that we will have a set of 4-6 classes.
+
+
+The data is public, and has a Creative Commons license that allows us unrestricted use. See the following links for more details:
+
+https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection, https://creativecommons.org/licenses/by/4.0/
+
+Here is the citation for the data we plan to use:
+1. Misra, Rishabh and Prahal Arora. "Sarcasm Detection using News Headlines Dataset." AI Open (2023).
+2. Misra, Rishabh and Jigyasa Grover. "Sculpting Data for ML: The first act of Machine Learning." ISBN 9798585463570 (2021).
