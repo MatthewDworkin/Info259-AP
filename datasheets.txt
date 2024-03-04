@@ -14,5 +14,5 @@ It should be noted that the dataset was compiled from these sources given the la
 Are there tasks for which the dataset should not be used?
 The dataset should only be used for sarcasm detection/categorization and should in no way be used for any political judgements or leanings towards the author or the individuals included in the original article. Additionally, the content of the article should not be referred to for this purpose. 
 Have any third parties imposed IP-based or other restrictions on the data associated with the instances?
-The The data is public, and has a Creative Commons license that allows us unrestricted use. See the following links for more details: https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection, https://creativecommons.org/licenses/by/4.0/
+The data is public, and has a Creative Commons license that allows us unrestricted use. See the following links for more details: https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection, https://creativecommons.org/licenses/by/4.0/
 
