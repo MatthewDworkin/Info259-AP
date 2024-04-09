@@ -298,203 +298,203 @@
 149	Shane	satire	psa: these are the places where it's ok to breastfeed
 150	Mathew 	satire	fellow millennial voters: no one owes us a damn thing
 150	Shane	none	fellow millennial voters: no one owes us a damn thing
-151	Abdullah 	none	surgical tech in needle-swap scandal at swedish medical center has hiv
-151	Shane 	none	surgical tech in needle-swap scandal at swedish medical center has hiv
-152	Abdullah 	satire	guy who got laid off just glad multi-national corporation will make it
-152	Shane 	irony	guy who got laid off just glad multi-national corporation will make it
-153	Abdullah 	none	k-y introduces new line of jam
-153	Shane 	none	k-y introduces new line of jam
-154	Abdullah 	humor	everything reminds man of 'her'
-154	Shane 	humor	everything reminds man of 'her'
-155	Abdullah 	humor	hampton inn concierge has long working relationship with chili's hostess
-155	Shane 	humor	hampton inn concierge has long working relationship with chili's hostess
-156	Abdullah 	satire	trump unveils exclusive double platinum–level press room for only select few journalists
-156	Shane 	none	trump unveils exclusive double platinum–level press room for only select few journalists
-157	Abdullah 	satire	tenants forced to clean apartment before telling landlord about mice
-157	Shane 	satire	tenants forced to clean apartment before telling landlord about mice
-158	Abdullah 	satire	pope francis finds self in hell after taking wrong turn in vatican catacombs
-158	Shane 	satire	pope francis finds self in hell after taking wrong turn in vatican catacombs
-159	Abdullah 	satire	entomologists retract new spider species discovery after determining it actually just clump of dust, hair
-159	Shane 	satire	entomologists retract new spider species discovery after determining it actually just clump of dust, hair
-160	Abdullah 	none	miami-dade county bans styrofoam from parks, beaches
-160	Shane 	none	miami-dade county bans styrofoam from parks, beaches
-161	Abdullah 	satire	even as 2018 looms, most in congress nearly always vote with trump
-161	Shane 	none	even as 2018 looms, most in congress nearly always vote with trump
-162	Abdullah 	none	forged federal document complicates a growing fight over national monument designation in utah
-162	Shane 	none	forged federal document complicates a growing fight over national monument designation in utah
-163	Abdullah 	none	trusting in grace
-163	Shane 	none	trusting in grace
-164	Abdullah 	none	report: some people wake up when it's still dark outside
-164	Shane 	humor	report: some people wake up when it's still dark outside
-165	Abdullah 	none	this canadian mega-mall is your new vacation spot
-165	Shane 	irony	this canadian mega-mall is your new vacation spot
-166	Abdullah 	none	cheney clotheslines aide
-166	Shane 	none	cheney clotheslines aide
-167	Abdullah 	humor	groom not about to let some 6-year-old dance with his bride
-167	Shane 	humor	groom not about to let some 6-year-old dance with his bride
-168	Abdullah 	satire	the color of money in silicon valley
-168	Shane 	none	the color of money in silicon valley
-169	Abdullah 	none	the most flattering eyeliner technique for your eye shape
-169	Shane 	none	the most flattering eyeliner technique for your eye shape
-170	Abdullah 	satire	ohio state uses t-shirt blaster to pass out diplomas
-170	Shane 	irony	ohio state uses t-shirt blaster to pass out diplomas
-171	Abdullah 	none	what's leaving netflix in may 2016?
-171	Shane 	none	what's leaving netflix in may 2016?
-172	Abdullah 	satire	experts warn situation in gaza will get worse before it gets much worse
-172	Shane 	satire	experts warn situation in gaza will get worse before it gets much worse
-173	Abdullah 	satire	report: kanye west, bill gates, tom hanks all currently reading, enjoying this article
-173	Shane 	satire	report: kanye west, bill gates, tom hanks all currently reading, enjoying this article
-174	Abdullah 	none	dustin lance black has great reply after being told two men shouldn't raise kids
-174	Shane 	none	dustin lance black has great reply after being told two men shouldn't raise kids
-175	Abdullah 	satire	trump warns removing confederate statues could be slippery slope to eliminating racism entirely
-175	Shane 	satire	trump warns removing confederate statues could be slippery slope to eliminating racism entirely
-176	Abdullah 	none	france's far-right national front unveils new name with pro-nazi past
-176	Shane 	none	france's far-right national front unveils new name with pro-nazi past
-177	Abdullah 	none	mutual selection process
-177	Shane 	none	mutual selection process
-178	Abdullah 	satire	conservative newspaper editorial boards line up behind hillary clinton
-178	Shane 	none	conservative newspaper editorial boards line up behind hillary clinton
-179	Abdullah 	satire	god admits he too close to creation to judge whether it any good or not
-179	Shane 	irony	god admits he too close to creation to judge whether it any good or not
-180	Abdullah 	humor	constrictive dress severs rachel mcadams at waist
-180	Shane 	satire	constrictive dress severs rachel mcadams at waist
-181	Abdullah 	satire	bill clinton starts own presidential school
-181	Shane 	satire	bill clinton starts own presidential school
-182	Abdullah 	none	psychologists push for smartphone warning labels
-182	Shane 	none	psychologists push for smartphone warning labels
-183	Abdullah 	none	older cafeteria monitor not a teacher or parent or anything
-183	Shane 	humor	older cafeteria monitor not a teacher or parent or anything
-184	Abdullah 	none	parents spend first 4 years of child's life fluctuating wildly between hoping child stays asleep, hoping child wakes up
-184	Shane 	humor	parents spend first 4 years of child's life fluctuating wildly between hoping child stays asleep, hoping child wakes up
-185	Abdullah 	satire	#dearbetsy campaign implores donald trump's education pick to protect campus rape rules
-185	Shane 	none	#dearbetsy campaign implores donald trump's education pick to protect campus rape rules
-186	Abdullah 	satire	underworld health organization launches initiative to improve incubus immortality rate
-186	Shane 	irony	underworld health organization launches initiative to improve incubus immortality rate
-187	Abdullah 	satire	george w. bush having trouble finding decent cocaine since leaving white house
-187	Shane 	satire	george w. bush having trouble finding decent cocaine since leaving white house
-188	Abdullah 	none	two non-binary college activists on creating space for themselves on campus
-188	Shane 	none	two non-binary college activists on creating space for themselves on campus
-189	Abdullah 	none	top north korean aide in charge of negotiating with south korea dies
-189	Shane 	none	top north korean aide in charge of negotiating with south korea dies
-190	Abdullah 	none	media reminds public not to overemphasize super tuesday results or draw any sort of wide-reaching conclusions
-190	Shane 	satire	media reminds public not to overemphasize super tuesday results or draw any sort of wide-reaching conclusions
-191	Abdullah 	none	lessons from losing a friend
-191	Shane 	none	lessons from losing a friend
-192	Abdullah 	humor	ping-pong rules adjusted for girlfriend
-192	Shane 	humor	ping-pong rules adjusted for girlfriend
-193	Abdullah 	satire	spanx introduces new shapewear hood to smooth unsightly heads
-193	Shane 	irony	spanx introduces new shapewear hood to smooth unsightly heads
-194	Abdullah 	none	vladimir putin, florida man, arrested for trespassing at supermarket
-194	Shane 	none	vladimir putin, florida man, arrested for trespassing at supermarket
-195	Abdullah 	humor	report: only 2% of internet worth sitting through 15-second ad
-195	Shane 	humor	report: only 2% of internet worth sitting through 15-second ad
-196	Abdullah 	satire	civil war historians posit 'you had to be there' theory
-196	Shane 	irony	civil war historians posit 'you had to be there' theory
-197	Abdullah 	satire	distrust and verify: an appropriate u.s. government response to sudan government actions
-197	Shane 	none	distrust and verify: an appropriate u.s. government response to sudan government actions
-198	Abdullah 	satire	assistant uses cake to smuggle cake-decorating set to martha stewart
-198	Shane 	satire	assistant uses cake to smuggle cake-decorating set to martha stewart
-199	Abdullah 	satire	ted cruz opens up to town hall audience about early days as larva feeding on porcupine carcass
-199	Shane 	satire	ted cruz opens up to town hall audience about early days as larva feeding on porcupine carcass
-200	Abdullah 	satire	american media reports news other than zoo's escaped cobra as if anything else really matters
-200	Shane 	humor	american media reports news other than zoo's escaped cobra as if anything else really matters
-201	Abdullah 	humor	bear eats 20 pounds of dog food, promptly dozes off
-201	Shane 	none	bear eats 20 pounds of dog food, promptly dozes off
-202	Abdullah 	none	americans say 2-to-1 that we never should have invaded iraq
-202	Shane 	humor	americans say 2-to-1 that we never should have invaded iraq
-203	Abdullah 	humor	man approaches unfamiliar shower knobs like he breaking wild stallion
-203	Shane 	humor	man approaches unfamiliar shower knobs like he breaking wild stallion
-204	Abdullah 	humor	on the road to the emmys with my entourage aka my kids
-204	Shane 	none	on the road to the emmys with my entourage aka my kids
-205	Abdullah 	satire	cnn producer on hunt for saddest-looking fuck with convention button collection
-205	Shane 	irony	cnn producer on hunt for saddest-looking fuck with convention button collection
-206	Abdullah 	none	college basketball player with inoperable brain tumor raises $1 million for charity
-206	Shane 	none	college basketball player with inoperable brain tumor raises $1 million for charity
-207	Abdullah 	humor	middle-aged couple sick of 31-year-old son always trying to set them up with other parents
-207	Shane 	irony	middle-aged couple sick of 31-year-old son always trying to set them up with other parents
-208	Abdullah 	none	the '7th heaven' cast reunites for the first time in 8 years
-208	Shane 	none	the '7th heaven' cast reunites for the first time in 8 years
-209	Abdullah 	satire	liu xiaobo - going to be pretty tough for the chinese government to kill now
-209	Shane 	satire	liu xiaobo - going to be pretty tough for the chinese government to kill now
-210	Abdullah 	none	mike pence: the birther issue is over
-210	Shane 	none	mike pence: the birther issue is over
-211	Abdullah 	satire	100 million more people will be in poverty by 2030 without action on climate, world bank says
-211	Shane 	none	100 million more people will be in poverty by 2030 without action on climate, world bank says
-212	Abdullah 	none	lindsey graham warns trump: firing mueller would be 'beginning of the end'
-212	Shane 	none	lindsey graham warns trump: firing mueller would be 'beginning of the end'
-213	Abdullah 	none	what refugees really want
-213	Shane 	irony	what refugees really want
-214	Abdullah 	satire	30-million-year-old species worried it doesn't have another evolution in it
-214	Shane 	irony	30-million-year-old species worried it doesn't have another evolution in it
-215	Abdullah 	irony	fan at dodger stadium gets really comfortable
-215	Shane 	satire	fan at dodger stadium gets really comfortable
-216	Abdullah 	none	longtime sexual fantasy awkwardly fulfilled
-216	Shane 	irony	longtime sexual fantasy awkwardly fulfilled
-217	Abdullah 	none	you'll want to get inked after seeing this tattoo artist's masterful work
-217	Shane 	none	you'll want to get inked after seeing this tattoo artist's masterful work
-218	Abdullah 	humor	man brings visiting parents into office to meet coworkers who can't stand him
-218	Shane 	humor	man brings visiting parents into office to meet coworkers who can't stand him
-219	Abdullah 	satire	dazed jeff bezos realizes he spent entire conversation thinking about how to automate person talking to him
-219	Shane 	satire	dazed jeff bezos realizes he spent entire conversation thinking about how to automate person talking to him
-220	Abdullah 	none	gop sen. bob corker: trump hasn't demonstrated 'stability' or 'competence'
-220	Shane 	none	gop sen. bob corker: trump hasn't demonstrated 'stability' or 'competence'
-221	Abdullah 	humor	70-year-old woman decides it time to start dressing entirely in purple
-221	Shane 	humor	70-year-old woman decides it time to start dressing entirely in purple
-222	Abdullah 	satire	gary busey nearly drowns recovering pork chop from swimming pool
-222	Shane 	satire	gary busey nearly drowns recovering pork chop from swimming pool
-223	Abdullah 	none	she dreamed of africa -- and then she was sent there
-223	Shane 	none	she dreamed of africa -- and then she was sent there
-224	Abdullah 	humor	venus added to registry of historically significant planets
-224	Shane 	humor	venus added to registry of historically significant planets
-225	Abdullah 	humor	israeli bus driver wants really big raise
-225	Shane 	satire	israeli bus driver wants really big raise
-226	Abdullah 	humor	woman can't wait to get home and take off uncomfortable persona
-226	Shane 	irony	woman can't wait to get home and take off uncomfortable persona
-227	Abdullah 	humor	god admits heaven was way cooler in the '70s
-227	Shane 	humor	god admits heaven was way cooler in the '70s
-228	Abdullah 	humor	argument about capital of australia occurs 10 feet from encyclopedia
-228	Shane 	humor	argument about capital of australia occurs 10 feet from encyclopedia
-229	Abdullah 	satire	dollar losing value against the quarter
-229	Shane 	irony	dollar losing value against the quarter
-230	Abdullah 	none	the real reason your hands are always cold
-230	Shane 	none	the real reason your hands are always cold
-231	Abdullah 	none	chicago city council approves $13 minimum wage
-231	Shane 	none	chicago city council approves $13 minimum wage
-232	Abdullah 	none	newly blond kanye west makes first appearance after hospitalization
-232	Shane 	none	newly blond kanye west makes first appearance after hospitalization
-233	Abdullah 	none	area man demands more starches
-233	Shane 	humor	area man demands more starches
-234	Abdullah 	satire	17 pieces of feminist jewelry that'll show you're a nasty woman
-234	Shane 	none	17 pieces of feminist jewelry that'll show you're a nasty woman
-235	Abdullah 	satire	new hampshire returns to obscurity
-235	Shane 	humor	new hampshire returns to obscurity
-236	Abdullah 	satire	can the new sfmoma turn tech-bros into art patrons?
-236	Shane 	none	can the new sfmoma turn tech-bros into art patrons?
-237	Abdullah 	humor	teen zebra doesn't give a shit how much you honk, he's not getting out of road
-237	Shane 	satire	teen zebra doesn't give a shit how much you honk, he's not getting out of road
-238	Abdullah 	humor	report: just 2 more days and you can forget all of this, vanish into 'red dead redemption 2'
-238	Shane 	humor	report: just 2 more days and you can forget all of this, vanish into 'red dead redemption 2'
-239	Abdullah 	irony	prominent fisheries scientist under fire for seafood industry funding
-239	Shane 	none	prominent fisheries scientist under fire for seafood industry funding
-240	Abdullah 	satire	ted cruz attempts to connect with voters by wearing more handsome man's face as mask
-240	Shane 	satire	ted cruz attempts to connect with voters by wearing more handsome man's face as mask
-241	Abdullah 	none	california wildfire death toll rises to 4 as more bodies found
-241	Shane 	none	california wildfire death toll rises to 4 as more bodies found
-242	Abdullah 	humor	pistachio-eating man achieves 'flow' state
-242	Shane 	satire	pistachio-eating man achieves 'flow' state
-243	Abdullah 	satire	on this week's cheap celeb finds, kylie jenner wears a $40 bikini top
-243	Shane 	none	on this week's cheap celeb finds, kylie jenner wears a $40 bikini top
-244	Abdullah 	none	fda to screen all donated blood for the zika virus
-244	Shane 	none	fda to screen all donated blood for the zika virus
-245	Abdullah 	satire	david letterman would like to depose donald trump and 'put him in a home'
-245	Shane 	none	david letterman would like to depose donald trump and 'put him in a home'
-246	Abdullah 	none	gop's confirmation of lynch won't change anything with obama
-246	Shane 	none	gop's confirmation of lynch won't change anything with obama
-247	Abdullah 	irony	nation's bicyclists remove helmets for head injury month
-247	Shane 	irony	nation's bicyclists remove helmets for head injury month
-248	Abdullah 	satire	slow-thinking bystander weighing pros and cons of pulling man out of river
-248	Shane 	humor	slow-thinking bystander weighing pros and cons of pulling man out of river
-249	Abdullah 	irony	attempt to meet different types of people thwarted by partygoer who also watches 'friday night lights'
-249	Shane 	satire	attempt to meet different types of people thwarted by partygoer who also watches 'friday night lights'
-250	Abdullah 	humor	americans are embarrassed by farts, says least surprising poll ever
-250	Shane 	none	americans are embarrassed by farts, says least surprising poll ever
+151	Abdullah	none	surgical tech in needle-swap scandal at swedish medical center has hiv
+151	Shane	none	surgical tech in needle-swap scandal at swedish medical center has hiv
+152	Abdullah	satire	guy who got laid off just glad multi-national corporation will make it
+152	Shane	irony	guy who got laid off just glad multi-national corporation will make it
+153	Abdullah	none	k-y introduces new line of jam
+153	Shane	none	k-y introduces new line of jam
+154	Abdullah	humor	everything reminds man of 'her'
+154	Shane	humor	everything reminds man of 'her'
+155	Abdullah	humor	hampton inn concierge has long working relationship with chili's hostess
+155	Shane	humor	hampton inn concierge has long working relationship with chili's hostess
+156	Abdullah	satire	trump unveils exclusive double platinum–level press room for only select few journalists
+156	Shane	none	trump unveils exclusive double platinum–level press room for only select few journalists
+157	Abdullah	satire	tenants forced to clean apartment before telling landlord about mice
+157	Shane	satire	tenants forced to clean apartment before telling landlord about mice
+158	Abdullah	satire	pope francis finds self in hell after taking wrong turn in vatican catacombs
+158	Shane	satire	pope francis finds self in hell after taking wrong turn in vatican catacombs
+159	Abdullah	satire	entomologists retract new spider species discovery after determining it actually just clump of dust, hair
+159	Shane	satire	entomologists retract new spider species discovery after determining it actually just clump of dust, hair
+160	Abdullah	none	miami-dade county bans styrofoam from parks, beaches
+160	Shane	none	miami-dade county bans styrofoam from parks, beaches
+161	Abdullah	satire	even as 2018 looms, most in congress nearly always vote with trump
+161	Shane	none	even as 2018 looms, most in congress nearly always vote with trump
+162	Abdullah	none	forged federal document complicates a growing fight over national monument designation in utah
+162	Shane	none	forged federal document complicates a growing fight over national monument designation in utah
+163	Abdullah	none	trusting in grace
+163	Shane	none	trusting in grace
+164	Abdullah	none	report: some people wake up when it's still dark outside
+164	Shane	humor	report: some people wake up when it's still dark outside
+165	Abdullah	none	this canadian mega-mall is your new vacation spot
+165	Shane	irony	this canadian mega-mall is your new vacation spot
+166	Abdullah	none	cheney clotheslines aide
+166	Shane	none	cheney clotheslines aide
+167	Abdullah	humor	groom not about to let some 6-year-old dance with his bride
+167	Shane	humor	groom not about to let some 6-year-old dance with his bride
+168	Abdullah	satire	the color of money in silicon valley
+168	Shane	none	the color of money in silicon valley
+169	Abdullah	none	the most flattering eyeliner technique for your eye shape
+169	Shane	none	the most flattering eyeliner technique for your eye shape
+170	Abdullah	satire	ohio state uses t-shirt blaster to pass out diplomas
+170	Shane	irony	ohio state uses t-shirt blaster to pass out diplomas
+171	Abdullah	none	what's leaving netflix in may 2016?
+171	Shane	none	what's leaving netflix in may 2016?
+172	Abdullah	satire	experts warn situation in gaza will get worse before it gets much worse
+172	Shane	satire	experts warn situation in gaza will get worse before it gets much worse
+173	Abdullah	satire	report: kanye west, bill gates, tom hanks all currently reading, enjoying this article
+173	Shane	satire	report: kanye west, bill gates, tom hanks all currently reading, enjoying this article
+174	Abdullah	none	dustin lance black has great reply after being told two men shouldn't raise kids
+174	Shane	none	dustin lance black has great reply after being told two men shouldn't raise kids
+175	Abdullah	satire	trump warns removing confederate statues could be slippery slope to eliminating racism entirely
+175	Shane	satire	trump warns removing confederate statues could be slippery slope to eliminating racism entirely
+176	Abdullah	none	france's far-right national front unveils new name with pro-nazi past
+176	Shane	none	france's far-right national front unveils new name with pro-nazi past
+177	Abdullah	none	mutual selection process
+177	Shane	none	mutual selection process
+178	Abdullah	satire	conservative newspaper editorial boards line up behind hillary clinton
+178	Shane	none	conservative newspaper editorial boards line up behind hillary clinton
+179	Abdullah	satire	god admits he too close to creation to judge whether it any good or not
+179	Shane	irony	god admits he too close to creation to judge whether it any good or not
+180	Abdullah	humor	constrictive dress severs rachel mcadams at waist
+180	Shane	satire	constrictive dress severs rachel mcadams at waist
+181	Abdullah	satire	bill clinton starts own presidential school
+181	Shane	satire	bill clinton starts own presidential school
+182	Abdullah	none	psychologists push for smartphone warning labels
+182	Shane	none	psychologists push for smartphone warning labels
+183	Abdullah	none	older cafeteria monitor not a teacher or parent or anything
+183	Shane	humor	older cafeteria monitor not a teacher or parent or anything
+184	Abdullah	none	parents spend first 4 years of child's life fluctuating wildly between hoping child stays asleep, hoping child wakes up
+184	Shane	humor	parents spend first 4 years of child's life fluctuating wildly between hoping child stays asleep, hoping child wakes up
+185	Abdullah	satire	#dearbetsy campaign implores donald trump's education pick to protect campus rape rules
+185	Shane	none	#dearbetsy campaign implores donald trump's education pick to protect campus rape rules
+186	Abdullah	satire	underworld health organization launches initiative to improve incubus immortality rate
+186	Shane	irony	underworld health organization launches initiative to improve incubus immortality rate
+187	Abdullah	satire	george w. bush having trouble finding decent cocaine since leaving white house
+187	Shane	satire	george w. bush having trouble finding decent cocaine since leaving white house
+188	Abdullah	none	two non-binary college activists on creating space for themselves on campus
+188	Shane	none	two non-binary college activists on creating space for themselves on campus
+189	Abdullah	none	top north korean aide in charge of negotiating with south korea dies
+189	Shane	none	top north korean aide in charge of negotiating with south korea dies
+190	Abdullah	none	media reminds public not to overemphasize super tuesday results or draw any sort of wide-reaching conclusions
+190	Shane	satire	media reminds public not to overemphasize super tuesday results or draw any sort of wide-reaching conclusions
+191	Abdullah	none	lessons from losing a friend
+191	Shane	none	lessons from losing a friend
+192	Abdullah	humor	ping-pong rules adjusted for girlfriend
+192	Shane	humor	ping-pong rules adjusted for girlfriend
+193	Abdullah	satire	spanx introduces new shapewear hood to smooth unsightly heads
+193	Shane	irony	spanx introduces new shapewear hood to smooth unsightly heads
+194	Abdullah	none	vladimir putin, florida man, arrested for trespassing at supermarket
+194	Shane	none	vladimir putin, florida man, arrested for trespassing at supermarket
+195	Abdullah	humor	report: only 2% of internet worth sitting through 15-second ad
+195	Shane	humor	report: only 2% of internet worth sitting through 15-second ad
+196	Abdullah	satire	civil war historians posit 'you had to be there' theory
+196	Shane	irony	civil war historians posit 'you had to be there' theory
+197	Abdullah	satire	distrust and verify: an appropriate u.s. government response to sudan government actions
+197	Shane	none	distrust and verify: an appropriate u.s. government response to sudan government actions
+198	Abdullah	satire	assistant uses cake to smuggle cake-decorating set to martha stewart
+198	Shane	satire	assistant uses cake to smuggle cake-decorating set to martha stewart
+199	Abdullah	satire	ted cruz opens up to town hall audience about early days as larva feeding on porcupine carcass
+199	Shane	satire	ted cruz opens up to town hall audience about early days as larva feeding on porcupine carcass
+200	Abdullah	satire	american media reports news other than zoo's escaped cobra as if anything else really matters
+200	Shane	humor	american media reports news other than zoo's escaped cobra as if anything else really matters
+201	Abdullah	humor	bear eats 20 pounds of dog food, promptly dozes off
+201	Shane	none	bear eats 20 pounds of dog food, promptly dozes off
+202	Abdullah	none	americans say 2-to-1 that we never should have invaded iraq
+202	Shane	humor	americans say 2-to-1 that we never should have invaded iraq
+203	Abdullah	humor	man approaches unfamiliar shower knobs like he breaking wild stallion
+203	Shane	humor	man approaches unfamiliar shower knobs like he breaking wild stallion
+204	Abdullah	humor	on the road to the emmys with my entourage aka my kids
+204	Shane	none	on the road to the emmys with my entourage aka my kids
+205	Abdullah	satire	cnn producer on hunt for saddest-looking fuck with convention button collection
+205	Shane	irony	cnn producer on hunt for saddest-looking fuck with convention button collection
+206	Abdullah	none	college basketball player with inoperable brain tumor raises $1 million for charity
+206	Shane	none	college basketball player with inoperable brain tumor raises $1 million for charity
+207	Abdullah	humor	middle-aged couple sick of 31-year-old son always trying to set them up with other parents
+207	Shane	irony	middle-aged couple sick of 31-year-old son always trying to set them up with other parents
+208	Abdullah	none	the '7th heaven' cast reunites for the first time in 8 years
+208	Shane	none	the '7th heaven' cast reunites for the first time in 8 years
+209	Abdullah	satire	liu xiaobo - going to be pretty tough for the chinese government to kill now
+209	Shane	satire	liu xiaobo - going to be pretty tough for the chinese government to kill now
+210	Abdullah	none	mike pence: the birther issue is over
+210	Shane	none	mike pence: the birther issue is over
+211	Abdullah	satire	100 million more people will be in poverty by 2030 without action on climate, world bank says
+211	Shane	none	100 million more people will be in poverty by 2030 without action on climate, world bank says
+212	Abdullah	none	lindsey graham warns trump: firing mueller would be 'beginning of the end'
+212	Shane	none	lindsey graham warns trump: firing mueller would be 'beginning of the end'
+213	Abdullah	none	what refugees really want
+213	Shane	irony	what refugees really want
+214	Abdullah	satire	30-million-year-old species worried it doesn't have another evolution in it
+214	Shane	irony	30-million-year-old species worried it doesn't have another evolution in it
+215	Abdullah	irony	fan at dodger stadium gets really comfortable
+215	Shane	satire	fan at dodger stadium gets really comfortable
+216	Abdullah	none	longtime sexual fantasy awkwardly fulfilled
+216	Shane	irony	longtime sexual fantasy awkwardly fulfilled
+217	Abdullah	none	you'll want to get inked after seeing this tattoo artist's masterful work
+217	Shane	none	you'll want to get inked after seeing this tattoo artist's masterful work
+218	Abdullah	humor	man brings visiting parents into office to meet coworkers who can't stand him
+218	Shane	humor	man brings visiting parents into office to meet coworkers who can't stand him
+219	Abdullah	satire	dazed jeff bezos realizes he spent entire conversation thinking about how to automate person talking to him
+219	Shane	satire	dazed jeff bezos realizes he spent entire conversation thinking about how to automate person talking to him
+220	Abdullah	none	gop sen. bob corker: trump hasn't demonstrated 'stability' or 'competence'
+220	Shane	none	gop sen. bob corker: trump hasn't demonstrated 'stability' or 'competence'
+221	Abdullah	humor	70-year-old woman decides it time to start dressing entirely in purple
+221	Shane	humor	70-year-old woman decides it time to start dressing entirely in purple
+222	Abdullah	satire	gary busey nearly drowns recovering pork chop from swimming pool
+222	Shane	satire	gary busey nearly drowns recovering pork chop from swimming pool
+223	Abdullah	none	she dreamed of africa -- and then she was sent there
+223	Shane	none	she dreamed of africa -- and then she was sent there
+224	Abdullah	humor	venus added to registry of historically significant planets
+224	Shane	humor	venus added to registry of historically significant planets
+225	Abdullah	humor	israeli bus driver wants really big raise
+225	Shane	satire	israeli bus driver wants really big raise
+226	Abdullah	humor	woman can't wait to get home and take off uncomfortable persona
+226	Shane	irony	woman can't wait to get home and take off uncomfortable persona
+227	Abdullah	humor	god admits heaven was way cooler in the '70s
+227	Shane	humor	god admits heaven was way cooler in the '70s
+228	Abdullah	humor	argument about capital of australia occurs 10 feet from encyclopedia
+228	Shane	humor	argument about capital of australia occurs 10 feet from encyclopedia
+229	Abdullah	satire	dollar losing value against the quarter
+229	Shane	irony	dollar losing value against the quarter
+230	Abdullah	none	the real reason your hands are always cold
+230	Shane	none	the real reason your hands are always cold
+231	Abdullah	none	chicago city council approves $13 minimum wage
+231	Shane	none	chicago city council approves $13 minimum wage
+232	Abdullah	none	newly blond kanye west makes first appearance after hospitalization
+232	Shane	none	newly blond kanye west makes first appearance after hospitalization
+233	Abdullah	none	area man demands more starches
+233	Shane	humor	area man demands more starches
+234	Abdullah	satire	17 pieces of feminist jewelry that'll show you're a nasty woman
+234	Shane	none	17 pieces of feminist jewelry that'll show you're a nasty woman
+235	Abdullah	satire	new hampshire returns to obscurity
+235	Shane	humor	new hampshire returns to obscurity
+236	Abdullah	satire	can the new sfmoma turn tech-bros into art patrons?
+236	Shane	none	can the new sfmoma turn tech-bros into art patrons?
+237	Abdullah	humor	teen zebra doesn't give a shit how much you honk, he's not getting out of road
+237	Shane	satire	teen zebra doesn't give a shit how much you honk, he's not getting out of road
+238	Abdullah	humor	report: just 2 more days and you can forget all of this, vanish into 'red dead redemption 2'
+238	Shane	humor	report: just 2 more days and you can forget all of this, vanish into 'red dead redemption 2'
+239	Abdullah	irony	prominent fisheries scientist under fire for seafood industry funding
+239	Shane	none	prominent fisheries scientist under fire for seafood industry funding
+240	Abdullah	satire	ted cruz attempts to connect with voters by wearing more handsome man's face as mask
+240	Shane	satire	ted cruz attempts to connect with voters by wearing more handsome man's face as mask
+241	Abdullah	none	california wildfire death toll rises to 4 as more bodies found
+241	Shane	none	california wildfire death toll rises to 4 as more bodies found
+242	Abdullah	humor	pistachio-eating man achieves 'flow' state
+242	Shane	satire	pistachio-eating man achieves 'flow' state
+243	Abdullah	satire	on this week's cheap celeb finds, kylie jenner wears a $40 bikini top
+243	Shane	none	on this week's cheap celeb finds, kylie jenner wears a $40 bikini top
+244	Abdullah	none	fda to screen all donated blood for the zika virus
+244	Shane	none	fda to screen all donated blood for the zika virus
+245	Abdullah	satire	david letterman would like to depose donald trump and 'put him in a home'
+245	Shane	none	david letterman would like to depose donald trump and 'put him in a home'
+246	Abdullah	none	gop's confirmation of lynch won't change anything with obama
+246	Shane	none	gop's confirmation of lynch won't change anything with obama
+247	Abdullah	irony	nation's bicyclists remove helmets for head injury month
+247	Shane	irony	nation's bicyclists remove helmets for head injury month
+248	Abdullah	satire	slow-thinking bystander weighing pros and cons of pulling man out of river
+248	Shane	humor	slow-thinking bystander weighing pros and cons of pulling man out of river
+249	Abdullah	irony	attempt to meet different types of people thwarted by partygoer who also watches 'friday night lights'
+249	Shane	satire	attempt to meet different types of people thwarted by partygoer who also watches 'friday night lights'
+250	Abdullah	humor	americans are embarrassed by farts, says least surprising poll ever
+250	Shane	none	americans are embarrassed by farts, says least surprising poll ever
