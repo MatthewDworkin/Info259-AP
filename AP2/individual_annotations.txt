@@ -1,0 +1,500 @@
+1	Mathew 	humor	woman who teaches special-needs children killing it at dinner party
+1	Shane	humor	woman who teaches special-needs children killing it at dinner party
+2	Mathew 	none	dnc criticized for overly restrictive debate rules requiring candidates have at least one policy position
+2	Shane	satire	dnc criticized for overly restrictive debate rules requiring candidates have at least one policy position
+3	Mathew 	irony	custodian taken into custody
+3	Shane	irony	custodian taken into custody
+4	Mathew 	none	mike pence takes oath of office as country's next vice president
+4	Shane	none	mike pence takes oath of office as country's next vice president
+5	Mathew 	humor	bedtime story from fucking bible again
+5	Shane	humor	bedtime story from fucking bible again
+6	Mathew 	satire	literary theorists admit they still have no idea what animal farm about
+6	Shane	satire	literary theorists admit they still have no idea what animal farm about
+7	Mathew 	irony	epa accidentally spills millions of gallons of waste, turning river orange
+7	Shane	none	epa accidentally spills millions of gallons of waste, turning river orange
+8	Mathew 	none	new york times' corrects story by admitting they burned venezuela aid convoy
+8	Shane	irony	new york times' corrects story by admitting they burned venezuela aid convoy
+9	Mathew 	none	alexa and google home record what you say. but what happens to that data?
+9	Shane	none	alexa and google home record what you say. but what happens to that data?
+10	Mathew 	irony	johnson & johnson hoping brand won't be tarnished if they dip into lethal injection game
+10	Shane	satire	johnson & johnson hoping brand won't be tarnished if they dip into lethal injection game
+11	Mathew 	humor	man always insists you toss him keys rather than just hand them to him
+11	Shane	humor	man always insists you toss him keys rather than just hand them to him
+12	Mathew 	none	fired u.s. attorney preet bharara said to have been investigating hhs secretary tom price
+12	Shane	none	fired u.s. attorney preet bharara said to have been investigating hhs secretary tom price
+13	Mathew 	none	hot-rod-lincoln-driving son may have contributed to father's alcoholism
+13	Shane	humor	hot-rod-lincoln-driving son may have contributed to father's alcoholism
+14	Mathew 	none	g.w. bush: 'not your government's choice' if you worship or not
+14	Shane	none	g.w. bush: 'not your government's choice' if you worship or not
+15	Mathew 	irony	man huffs keyboard spray after crash as cop watches
+15	Shane	humor	man huffs keyboard spray after crash as cop watches
+16	Mathew 	none	minimum-wage increases: the justice of redistribution
+16	Shane	none	minimum-wage increases: the justice of redistribution
+17	Mathew 	humor	roommate never seems to leave apartment
+17	Shane	humor	roommate never seems to leave apartment
+18	Mathew 	none	woman 'dragged' from west virginia hearing after listing lawmakers' oil and gas donors
+18	Shane	none	woman 'dragged' from west virginia hearing after listing lawmakers' oil and gas donors
+19	Mathew 	satire	ford: new f-150 pickup truck capable of crushing a big turtle in one go
+19	Shane	satire	ford: new f-150 pickup truck capable of crushing a big turtle in one go
+20	Mathew 	none	the milestone i wasn't ready for
+20	Shane	none	the milestone i wasn't ready for
+21	Mathew 	none	a new shade of green collaborations taking shape in boulder
+21	Shane	none	a new shade of green collaborations taking shape in boulder
+22	Mathew 	none	why we 'freeze' in uncomfortable situations
+22	Shane	none	why we 'freeze' in uncomfortable situations
+23	Mathew 	none	americans gave record $373.25 billion to charity last year
+23	Shane	none	americans gave record $373.25 billion to charity last year
+24	Mathew 	irony	loser older brother looked up to
+24	Shane	humor	loser older brother looked up to
+25	Mathew 	satire	tim burton worried he going through a bit of a 14-movie slump
+25	Shane	satire	tim burton worried he going through a bit of a 14-movie slump
+26	Mathew 	none	u.s. stock market soars after bernanke's reassuring comments about 'pacific rim'
+26	Shane	irony	u.s. stock market soars after bernanke's reassuring comments about 'pacific rim'
+27	Mathew 	humor	washed-up toddler can't point out things like he used to
+27	Shane	humor	washed-up toddler can't point out things like he used to
+28	Mathew 	none	shelling from royal caribbean's m.s. 'allure' sinks carnival cruise vessel that crossed into disputed waters
+28	Shane	none	shelling from royal caribbean's m.s. 'allure' sinks carnival cruise vessel that crossed into disputed waters
+29	Mathew 	satire	lindsay wagner to star in anything offered her
+29	Shane	satire	lindsay wagner to star in anything offered her
+30	Mathew 	none	dozens of leads, no arrests in ferguson police shooting
+30	Shane	none	dozens of leads, no arrests in ferguson police shooting
+31	Mathew 	satire	pope leaves detailed instructions for taking care of holy spirit while he out of town
+31	Shane	irony	pope leaves detailed instructions for taking care of holy spirit while he out of town
+32	Mathew 	satire	the pta mom and the power couple from hell
+32	Shane	none	the pta mom and the power couple from hell
+33	Mathew 	irony	man passes away surrounded by knife-wielding loved ones
+33	Shane	irony	man passes away surrounded by knife-wielding loved ones
+34	Mathew 	none	#metoo, and it's time for change
+34	Shane	none	#metoo, and it's time for change
+35	Mathew 	none	trump jokes about fate of vulnerable gop senator during health care talks
+35	Shane	none	trump jokes about fate of vulnerable gop senator during health care talks
+36	Mathew 	irony	steven spielberg criticizes netflix for ruining golden age of pandering big-budget corporate films
+36	Shane	satire	steven spielberg criticizes netflix for ruining golden age of pandering big-budget corporate films
+37	Mathew 	satire	study finds people on dates know within 30 seconds if other person is newt gingrich
+37	Shane	humor	study finds people on dates know within 30 seconds if other person is newt gingrich
+38	Mathew 	humor	report: 97% of inner tube occupants agree it doesn't get any better than this
+38	Shane	humor	report: 97% of inner tube occupants agree it doesn't get any better than this
+39	Mathew 	humor	woman doomed to years of hippo-themed gifts
+39	Shane	irony	woman doomed to years of hippo-themed gifts
+40	Mathew 	satire	cryptic long john silver's campaign just says 'you are the bait now'
+40	Shane	satire	cryptic long john silver's campaign just says 'you are the bait now'
+41	Mathew 	satire	perfect girlfriend blames self for everything
+41	Shane	satire	perfect girlfriend blames self for everything
+42	Mathew 	humor	awkward encounter not awkward at all when masturbated about
+42	Shane	humor	awkward encounter not awkward at all when masturbated about
+43	Mathew 	satire	man wondering when 'ocean's 8' trailer going to show film's protagonist
+43	Shane	irony	man wondering when 'ocean's 8' trailer going to show film's protagonist
+44	Mathew 	none	ryan handed romney's latest political positions before walking on stage
+44	Shane	none	ryan handed romney's latest political positions before walking on stage
+45	Mathew 	none	what do you know about the colors of nature?
+45	Shane	none	what do you know about the colors of nature?
+46	Mathew 	none	the only shopping guide for cyber monday you need
+46	Shane	none	the only shopping guide for cyber monday you need
+47	Mathew 	satire	congress relieved to admit it's not going to accomplish anything this year
+47	Shane	satire	congress relieved to admit it's not going to accomplish anything this year
+48	Mathew 	none	gentle ben biographer's shocking new book reveals famous bear's 28-pine-marten-a-day habit
+48	Shane	none	gentle ben biographer's shocking new book reveals famous bear's 28-pine-marten-a-day habit
+49	Mathew 	humor	shrimp would be pissed if he could see the lame party he's going to be served at
+49	Shane	humor	shrimp would be pissed if he could see the lame party he's going to be served at
+50	Mathew 	humor	area man not about to tie his shoe when he's 4 blocks away from sitting down
+50	Shane	humor	area man not about to tie his shoe when he's 4 blocks away from sitting down
+51	Mathew 	satire	newly sober kavanaugh introduces sponsor who says he needs supreme court seat as part of recovery
+51	Shane	satire	newly sober kavanaugh introduces sponsor who says he needs supreme court seat as part of recovery
+52	Mathew 	none	why and how to eliminate mortgage charges by third parties
+52	Shane	none	why and how to eliminate mortgage charges by third parties
+53	Mathew 	satire	data-entry clerk reapplies carmex at 17-minute intervals
+53	Shane	satire	data-entry clerk reapplies carmex at 17-minute intervals
+54	Mathew 	none	drug-resistant bacteria often lurk in children's, dogs' sandboxes
+54	Shane	none	drug-resistant bacteria often lurk in children's, dogs' sandboxes
+55	Mathew 	none	taylor swift threw lorde a celeb-filled birthday party fit for royals
+55	Shane	none	taylor swift threw lorde a celeb-filled birthday party fit for royals
+56	Mathew 	none	11 unexpected ways to use grapefruit
+56	Shane	humor	11 unexpected ways to use grapefruit
+57	Mathew 	satire	latest department of interior river count comes up one short
+57	Shane	satire	latest department of interior river count comes up one short
+58	Mathew 	none	ted cruz may be too conservative to stop trump
+58	Shane	none	ted cruz may be too conservative to stop trump
+59	Mathew 	none	what happened' and moving on from the 2016 election
+59	Shane	none	what happened' and moving on from the 2016 election
+60	Mathew 	none	a quiet place' reclaims top spot at the box office
+60	Shane	none	a quiet place' reclaims top spot at the box office
+61	Mathew 	irony	perfectly good dead body cremated
+61	Shane	irony	perfectly good dead body cremated
+62	Mathew 	none	trump suggests florida students could have done more to prevent deadly shooting
+62	Shane	satire	trump suggests florida students could have done more to prevent deadly shooting
+63	Mathew 	irony	man with 3 kids going to make great father someday
+63	Shane	irony	man with 3 kids going to make great father someday
+64	Mathew 	none	true blood' characters openly talking about how they can't wait for episode to end
+64	Shane	satire	true blood' characters openly talking about how they can't wait for episode to end
+65	Mathew 	none	sean penn sues 'empire' creator lee daniels for claiming the actor hits women
+65	Shane	none	sean penn sues 'empire' creator lee daniels for claiming the actor hits women
+66	Mathew 	none	congress passes natural disaster digital-enhancement funding
+66	Shane	none	congress passes natural disaster digital-enhancement funding
+67	Mathew 	humor	report: ocean levels could rise foot or more if lots of people go swimming
+67	Shane	humor	report: ocean levels could rise foot or more if lots of people go swimming
+68	Mathew 	none	to my muslim best friend
+68	Shane	none	to my muslim best friend
+69	Mathew 	satire	new beatles box set features 172 unreleased songs about wanting to hold hands
+69	Shane	satire	new beatles box set features 172 unreleased songs about wanting to hold hands
+70	Mathew 	satire	larry king's frothing saliva hosed off bette midler
+70	Shane	humor	larry king's frothing saliva hosed off bette midler
+71	Mathew 	none	how netflix's 'girlboss' perpetuates negative stereotypes
+71	Shane	irony	how netflix's 'girlboss' perpetuates negative stereotypes
+72	Mathew 	humor	dog keeps iceland awake all night
+72	Shane	irony	dog keeps iceland awake all night
+73	Mathew 	none	boehner opens door to suing obama over iran deal
+73	Shane	none	boehner opens door to suing obama over iran deal
+74	Mathew 	humor	delta pilot refuses to land until gun control legislation passed
+74	Shane	irony	delta pilot refuses to land until gun control legislation passed
+75	Mathew 	none	oscars 2018: the complete winners list
+75	Shane	none	oscars 2018: the complete winners list
+76	Mathew 	satire	obamacare helps uninsured americans become blindingly enraged at insurance companies
+76	Shane	satire	obamacare helps uninsured americans become blindingly enraged at insurance companies
+77	Mathew 	none	the best decluttering advice we've heard
+77	Shane	none	the best decluttering advice we've heard
+78	Mathew 	none	once homeless student who worked 4 jobs to support family graduates college
+78	Shane	none	once homeless student who worked 4 jobs to support family graduates college
+79	Mathew 	satire	a farm boy meets his prince in a beautiful new children's book
+79	Shane	none	a farm boy meets his prince in a beautiful new children's book
+80	Mathew 	satire	novelist thinks people shrug 10 times more than they actually do
+80	Shane	satire	novelist thinks people shrug 10 times more than they actually do
+81	Mathew 	none	adorable cotton candy girl is the hero we all need right now
+81	Shane	none	adorable cotton candy girl is the hero we all need right now
+82	Mathew 	satire	nfl team spends days hiding 'fresh prince of bel-air' lyrics in cryptic tweets
+82	Shane	humor	nfl team spends days hiding 'fresh prince of bel-air' lyrics in cryptic tweets
+83	Mathew 	none	benedict cumberbatch prepares for battle in magical new 'doctor strange' trailer
+83	Shane	irony	benedict cumberbatch prepares for battle in magical new 'doctor strange' trailer
+84	Mathew 	none	emails: how the obama administration secretly approved expanding piece of enbridge's "keystone xl clone"
+84	Shane	none	emails: how the obama administration secretly approved expanding piece of enbridge's "keystone xl clone"
+85	Mathew 	none	why going abroad isn't always rainbows and butterflies
+85	Shane	none	why going abroad isn't always rainbows and butterflies
+86	Mathew 	none	a global meditation for world peace, december 12, 2014
+86	Shane	none	a global meditation for world peace, december 12, 2014
+87	Mathew 	none	department of transportation allocates $400 million for national shortcut
+87	Shane	satire	department of transportation allocates $400 million for national shortcut
+88	Mathew 	satire	onion social ceo promises algorithm will now automatically label racist, sexist content as 'debatable'
+88	Shane	satire	onion social ceo promises algorithm will now automatically label racist, sexist content as 'debatable'
+89	Mathew 	none	it's not about leading; it's about leading well
+89	Shane	none	it's not about leading; it's about leading well
+90	Mathew 	none	the water war that will decide the fate of 1 in 8 americans
+90	Shane	none	the water war that will decide the fate of 1 in 8 americans
+91	Mathew 	none	latinos and the 2014 elections: five reasons to vote in november
+91	Shane	none	latinos and the 2014 elections: five reasons to vote in november
+92	Mathew 	none	couple married 75 years renew their vows in sweet nursing home ceremony
+92	Shane	none	couple married 75 years renew their vows in sweet nursing home ceremony
+93	Mathew 	satire	area bird creeped out by bird watcher
+93	Shane	irony	area bird creeped out by bird watcher
+94	Mathew 	humor	asshole even shoots pool like an asshole
+94	Shane	humor	asshole even shoots pool like an asshole
+95	Mathew 	none	yes, donald trump is actually going on 'saturday night live' tonight
+95	Shane	irony	yes, donald trump is actually going on 'saturday night live' tonight
+96	Mathew 	humor	how to avoid ending up in a tree in the amazon
+96	Shane	irony	how to avoid ending up in a tree in the amazon
+97	Mathew 	satire	eddie murphy fucks self for $20 million
+97	Shane	satire	eddie murphy fucks self for $20 million
+98	Mathew 	satire	man at party comes crawling back to conversation he thought he could do better than
+98	Shane	humor	man at party comes crawling back to conversation he thought he could do better than
+99	Mathew 	none	9 personal trainer tips for mastering the weight room
+99	Shane	none	9 personal trainer tips for mastering the weight room
+100	Mathew 	satire	gamers rejoice! this potion restores 20 hp
+100	Shane	satire	gamers rejoice! this potion restores 20 hp
+101	Mathew 	satire	kasich trying to find other states where he is beloved multi-term governor
+101	Shane	none	kasich trying to find other states where he is beloved multi-term governor
+102	Mathew 	humor	man only has himself to blame for what's in targeted banner ad
+102	Shane	satire	man only has himself to blame for what's in targeted banner ad
+103	Mathew 	none	divorcing parents: 10 questions to ask before fighting over the kids
+103	Shane	satire	divorcing parents: 10 questions to ask before fighting over the kids
+104	Mathew 	irony	parents gently explain to son why family dog had to be blown up with dynamite
+104	Shane	irony	parents gently explain to son why family dog had to be blown up with dynamite
+105	Mathew 	satire	obama finally tells rambling tom vilsack to shut the fuck up during cabinet meeting
+105	Shane	satire	obama finally tells rambling tom vilsack to shut the fuck up during cabinet meeting
+106	Mathew 	irony	the atheist and the nun
+106	Shane	none	the atheist and the nun
+107	Mathew 	none	slight drop in measles vaccinations could triple infections in u.s. kids
+107	Shane	none	slight drop in measles vaccinations could triple infections in u.s. kids
+108	Mathew 	none	local grandmother feared dead after appearing in woman's profile picture
+108	Shane	humor	local grandmother feared dead after appearing in woman's profile picture
+109	Mathew 	none	dwight howard on helping to empower and educate girls in east africa
+109	Shane	none	dwight howard on helping to empower and educate girls in east africa
+110	Mathew 	none	nick cannon wilds out on twitter to shut down those mariah carey rumors
+110	Shane	none	nick cannon wilds out on twitter to shut down those mariah carey rumors
+111	Mathew 	none	craig sager brings his a-game to facetime fellow cancer patient
+111	Shane	none	craig sager brings his a-game to facetime fellow cancer patient
+112	Mathew 	satire	single mother hogging 2 jobs
+112	Shane	irony	single mother hogging 2 jobs
+113	Mathew 	none	starting unicorn companies: fireeye
+113	Shane	humor	starting unicorn companies: fireeye
+114	Mathew 	none	cops and educators agree: arming teachers is a terrible idea
+114	Shane	none	cops and educators agree: arming teachers is a terrible idea
+115	Mathew 	none	browns owner haslam mixes republican politics with football
+115	Shane	none	browns owner haslam mixes republican politics with football
+116	Mathew 	none	climate science on trial again
+116	Shane	none	climate science on trial again
+117	Mathew 	satire	rookie trucker always on cb to mother
+117	Shane	humor	rookie trucker always on cb to mother
+118	Mathew 	satire	usda admits weight loss not possible for people who don't like salmon
+118	Shane	satire	usda admits weight loss not possible for people who don't like salmon
+119	Mathew 	none	trump's travel ban does nothing to stop the most deadly form of terror in the u.s.
+119	Shane	none	trump's travel ban does nothing to stop the most deadly form of terror in the u.s.
+120	Mathew 	humor	toddler adjusting to society after serving 2-minute timeout
+120	Shane	humor	toddler adjusting to society after serving 2-minute timeout
+121	Mathew 	none	there isn't a “war on christmas.” there's a fight for inclusivity.
+121	Shane	none	there isn't a “war on christmas.” there's a fight for inclusivity.
+122	Mathew 	satire	aides gently tell trump he can't bring all his gold lion statues on airplane
+122	Shane	satire	aides gently tell trump he can't bring all his gold lion statues on airplane
+123	Mathew 	none	al qaeda chief calls for more kidnappings
+123	Shane	none	al qaeda chief calls for more kidnappings
+124	Mathew 	satire	candy purchase puts yet more money in raisinets' bloated coffers
+124	Shane	none	candy purchase puts yet more money in raisinets' bloated coffers
+125	Mathew 	irony	grandfather seems proud of how many people polio killed
+125	Shane	irony	grandfather seems proud of how many people polio killed
+126	Mathew 	irony	ellen goes hetero for halloween!
+126	Shane	none	ellen goes hetero for halloween!
+127	Mathew 	none	new report finds moving to isolated seaside cottage greatly increases productivity
+127	Shane	satire	new report finds moving to isolated seaside cottage greatly increases productivity
+128	Mathew 	none	a week in brooklyn, new york, on a $55,000 salary
+128	Shane	none	a week in brooklyn, new york, on a $55,000 salary
+129	Mathew 	none	justin timberlake wants his son to be inspired by charlottesville's strength
+129	Shane	none	justin timberlake wants his son to be inspired by charlottesville's strength
+130	Mathew 	none	ahead of hurricane irma, miami detained homeless people against their will
+130	Shane	none	ahead of hurricane irma, miami detained homeless people against their will
+131	Mathew 	none	bertha cáceres: 'my mother's is not the first assassination. i don't want another'
+131	Shane	none	bertha cáceres: 'my mother's is not the first assassination. i don't want another'
+132	Mathew 	humor	study: 80 percent of all hermits recovering from broken hearts
+132	Shane	satire	study: 80 percent of all hermits recovering from broken hearts
+133	Mathew 	none	what's in your mailbox? tips on what to do when uncle sam comes knocking
+133	Shane	none	what's in your mailbox? tips on what to do when uncle sam comes knocking
+134	Mathew 	satire	community rallies to save eyesore
+134	Shane	none	community rallies to save eyesore
+135	Mathew 	satire	mta unveils $28 billion plan to renovate subway masturbators
+135	Shane	humor	mta unveils $28 billion plan to renovate subway masturbators
+136	Mathew 	none	trump suggests iran brought deadly terrorist attacks upon itself
+136	Shane	satire	trump suggests iran brought deadly terrorist attacks upon itself
+137	Mathew 	satire	kavanaugh surprised senate not questioning fact he never went to law school
+137	Shane	satire	kavanaugh surprised senate not questioning fact he never went to law school
+138	Mathew 	humor	8 things guns compensate for (besides your penis)
+138	Shane	satire	8 things guns compensate for (besides your penis)
+139	Mathew 	satire	the u.s. military can't get out (no matter the country or the conflict)
+139	Shane	none	the u.s. military can't get out (no matter the country or the conflict)
+140	Mathew 	none	establishment rallies 'round rubio
+140	Shane	irony	establishment rallies 'round rubio
+141	Mathew 	irony	lonely elderly man visits pond to pelt ducks with rocks
+141	Shane	satire	lonely elderly man visits pond to pelt ducks with rocks
+142	Mathew 	satire	hentai message board features surprisingly close-knit, supportive community
+142	Shane	satire	hentai message board features surprisingly close-knit, supportive community
+143	Mathew 	satire	texas vows to reclaim title of most regressive state from arizona
+143	Shane	satire	texas vows to reclaim title of most regressive state from arizona
+144	Mathew 	satire	house vote maintains military ability to jail people without trial
+144	Shane	none	house vote maintains military ability to jail people without trial
+145	Mathew 	humor	oh, area man's aching back
+145	Shane	humor	oh, area man's aching back
+146	Mathew 	satire	religious scholars discover jesus christ delivered by dr. sidney adler
+146	Shane	irony	religious scholars discover jesus christ delivered by dr. sidney adler
+147	Mathew 	none	space shuttle endeavour: what's in it for me?
+147	Shane	satire	space shuttle endeavour: what's in it for me?
+148	Mathew 	satire	trump casually mills about supreme court changing rooms ahead of state of the union address
+148	Shane	satire	trump casually mills about supreme court changing rooms ahead of state of the union address
+149	Mathew 	none	psa: these are the places where it's ok to breastfeed
+149	Shane	satire	psa: these are the places where it's ok to breastfeed
+150	Mathew 	satire	fellow millennial voters: no one owes us a damn thing
+150	Shane	none	fellow millennial voters: no one owes us a damn thing
+151	Abdullah	none	surgical tech in needle-swap scandal at swedish medical center has hiv
+151	Shane	none	surgical tech in needle-swap scandal at swedish medical center has hiv
+152	Abdullah	satire	guy who got laid off just glad multi-national corporation will make it
+152	Shane	irony	guy who got laid off just glad multi-national corporation will make it
+153	Abdullah	none	k-y introduces new line of jam
+153	Shane	none	k-y introduces new line of jam
+154	Abdullah	humor	everything reminds man of 'her'
+154	Shane	humor	everything reminds man of 'her'
+155	Abdullah	humor	hampton inn concierge has long working relationship with chili's hostess
+155	Shane	humor	hampton inn concierge has long working relationship with chili's hostess
+156	Abdullah	satire	trump unveils exclusive double platinum–level press room for only select few journalists
+156	Shane	none	trump unveils exclusive double platinum–level press room for only select few journalists
+157	Abdullah	satire	tenants forced to clean apartment before telling landlord about mice
+157	Shane	satire	tenants forced to clean apartment before telling landlord about mice
+158	Abdullah	satire	pope francis finds self in hell after taking wrong turn in vatican catacombs
+158	Shane	satire	pope francis finds self in hell after taking wrong turn in vatican catacombs
+159	Abdullah	satire	entomologists retract new spider species discovery after determining it actually just clump of dust, hair
+159	Shane	satire	entomologists retract new spider species discovery after determining it actually just clump of dust, hair
+160	Abdullah	none	miami-dade county bans styrofoam from parks, beaches
+160	Shane	none	miami-dade county bans styrofoam from parks, beaches
+161	Abdullah	satire	even as 2018 looms, most in congress nearly always vote with trump
+161	Shane	none	even as 2018 looms, most in congress nearly always vote with trump
+162	Abdullah	none	forged federal document complicates a growing fight over national monument designation in utah
+162	Shane	none	forged federal document complicates a growing fight over national monument designation in utah
+163	Abdullah	none	trusting in grace
+163	Shane	none	trusting in grace
+164	Abdullah	none	report: some people wake up when it's still dark outside
+164	Shane	humor	report: some people wake up when it's still dark outside
+165	Abdullah	none	this canadian mega-mall is your new vacation spot
+165	Shane	irony	this canadian mega-mall is your new vacation spot
+166	Abdullah	none	cheney clotheslines aide
+166	Shane	none	cheney clotheslines aide
+167	Abdullah	humor	groom not about to let some 6-year-old dance with his bride
+167	Shane	humor	groom not about to let some 6-year-old dance with his bride
+168	Abdullah	satire	the color of money in silicon valley
+168	Shane	none	the color of money in silicon valley
+169	Abdullah	none	the most flattering eyeliner technique for your eye shape
+169	Shane	none	the most flattering eyeliner technique for your eye shape
+170	Abdullah	satire	ohio state uses t-shirt blaster to pass out diplomas
+170	Shane	irony	ohio state uses t-shirt blaster to pass out diplomas
+171	Abdullah	none	what's leaving netflix in may 2016?
+171	Shane	none	what's leaving netflix in may 2016?
+172	Abdullah	satire	experts warn situation in gaza will get worse before it gets much worse
+172	Shane	satire	experts warn situation in gaza will get worse before it gets much worse
+173	Abdullah	satire	report: kanye west, bill gates, tom hanks all currently reading, enjoying this article
+173	Shane	satire	report: kanye west, bill gates, tom hanks all currently reading, enjoying this article
+174	Abdullah	none	dustin lance black has great reply after being told two men shouldn't raise kids
+174	Shane	none	dustin lance black has great reply after being told two men shouldn't raise kids
+175	Abdullah	satire	trump warns removing confederate statues could be slippery slope to eliminating racism entirely
+175	Shane	satire	trump warns removing confederate statues could be slippery slope to eliminating racism entirely
+176	Abdullah	none	france's far-right national front unveils new name with pro-nazi past
+176	Shane	none	france's far-right national front unveils new name with pro-nazi past
+177	Abdullah	none	mutual selection process
+177	Shane	none	mutual selection process
+178	Abdullah	satire	conservative newspaper editorial boards line up behind hillary clinton
+178	Shane	none	conservative newspaper editorial boards line up behind hillary clinton
+179	Abdullah	satire	god admits he too close to creation to judge whether it any good or not
+179	Shane	irony	god admits he too close to creation to judge whether it any good or not
+180	Abdullah	humor	constrictive dress severs rachel mcadams at waist
+180	Shane	satire	constrictive dress severs rachel mcadams at waist
+181	Abdullah	satire	bill clinton starts own presidential school
+181	Shane	satire	bill clinton starts own presidential school
+182	Abdullah	none	psychologists push for smartphone warning labels
+182	Shane	none	psychologists push for smartphone warning labels
+183	Abdullah	none	older cafeteria monitor not a teacher or parent or anything
+183	Shane	humor	older cafeteria monitor not a teacher or parent or anything
+184	Abdullah	none	parents spend first 4 years of child's life fluctuating wildly between hoping child stays asleep, hoping child wakes up
+184	Shane	humor	parents spend first 4 years of child's life fluctuating wildly between hoping child stays asleep, hoping child wakes up
+185	Abdullah	satire	#dearbetsy campaign implores donald trump's education pick to protect campus rape rules
+185	Shane	none	#dearbetsy campaign implores donald trump's education pick to protect campus rape rules
+186	Abdullah	satire	underworld health organization launches initiative to improve incubus immortality rate
+186	Shane	irony	underworld health organization launches initiative to improve incubus immortality rate
+187	Abdullah	satire	george w. bush having trouble finding decent cocaine since leaving white house
+187	Shane	satire	george w. bush having trouble finding decent cocaine since leaving white house
+188	Abdullah	none	two non-binary college activists on creating space for themselves on campus
+188	Shane	none	two non-binary college activists on creating space for themselves on campus
+189	Abdullah	none	top north korean aide in charge of negotiating with south korea dies
+189	Shane	none	top north korean aide in charge of negotiating with south korea dies
+190	Abdullah	none	media reminds public not to overemphasize super tuesday results or draw any sort of wide-reaching conclusions
+190	Shane	satire	media reminds public not to overemphasize super tuesday results or draw any sort of wide-reaching conclusions
+191	Abdullah	none	lessons from losing a friend
+191	Shane	none	lessons from losing a friend
+192	Abdullah	humor	ping-pong rules adjusted for girlfriend
+192	Shane	humor	ping-pong rules adjusted for girlfriend
+193	Abdullah	satire	spanx introduces new shapewear hood to smooth unsightly heads
+193	Shane	irony	spanx introduces new shapewear hood to smooth unsightly heads
+194	Abdullah	none	vladimir putin, florida man, arrested for trespassing at supermarket
+194	Shane	none	vladimir putin, florida man, arrested for trespassing at supermarket
+195	Abdullah	humor	report: only 2% of internet worth sitting through 15-second ad
+195	Shane	humor	report: only 2% of internet worth sitting through 15-second ad
+196	Abdullah	satire	civil war historians posit 'you had to be there' theory
+196	Shane	irony	civil war historians posit 'you had to be there' theory
+197	Abdullah	satire	distrust and verify: an appropriate u.s. government response to sudan government actions
+197	Shane	none	distrust and verify: an appropriate u.s. government response to sudan government actions
+198	Abdullah	satire	assistant uses cake to smuggle cake-decorating set to martha stewart
+198	Shane	satire	assistant uses cake to smuggle cake-decorating set to martha stewart
+199	Abdullah	satire	ted cruz opens up to town hall audience about early days as larva feeding on porcupine carcass
+199	Shane	satire	ted cruz opens up to town hall audience about early days as larva feeding on porcupine carcass
+200	Abdullah	satire	american media reports news other than zoo's escaped cobra as if anything else really matters
+200	Shane	humor	american media reports news other than zoo's escaped cobra as if anything else really matters
+201	Abdullah	humor	bear eats 20 pounds of dog food, promptly dozes off
+201	Shane	none	bear eats 20 pounds of dog food, promptly dozes off
+202	Abdullah	none	americans say 2-to-1 that we never should have invaded iraq
+202	Shane	humor	americans say 2-to-1 that we never should have invaded iraq
+203	Abdullah	humor	man approaches unfamiliar shower knobs like he breaking wild stallion
+203	Shane	humor	man approaches unfamiliar shower knobs like he breaking wild stallion
+204	Abdullah	humor	on the road to the emmys with my entourage aka my kids
+204	Shane	none	on the road to the emmys with my entourage aka my kids
+205	Abdullah	satire	cnn producer on hunt for saddest-looking fuck with convention button collection
+205	Shane	irony	cnn producer on hunt for saddest-looking fuck with convention button collection
+206	Abdullah	none	college basketball player with inoperable brain tumor raises $1 million for charity
+206	Shane	none	college basketball player with inoperable brain tumor raises $1 million for charity
+207	Abdullah	humor	middle-aged couple sick of 31-year-old son always trying to set them up with other parents
+207	Shane	irony	middle-aged couple sick of 31-year-old son always trying to set them up with other parents
+208	Abdullah	none	the '7th heaven' cast reunites for the first time in 8 years
+208	Shane	none	the '7th heaven' cast reunites for the first time in 8 years
+209	Abdullah	satire	liu xiaobo - going to be pretty tough for the chinese government to kill now
+209	Shane	satire	liu xiaobo - going to be pretty tough for the chinese government to kill now
+210	Abdullah	none	mike pence: the birther issue is over
+210	Shane	none	mike pence: the birther issue is over
+211	Abdullah	satire	100 million more people will be in poverty by 2030 without action on climate, world bank says
+211	Shane	none	100 million more people will be in poverty by 2030 without action on climate, world bank says
+212	Abdullah	none	lindsey graham warns trump: firing mueller would be 'beginning of the end'
+212	Shane	none	lindsey graham warns trump: firing mueller would be 'beginning of the end'
+213	Abdullah	none	what refugees really want
+213	Shane	irony	what refugees really want
+214	Abdullah	satire	30-million-year-old species worried it doesn't have another evolution in it
+214	Shane	irony	30-million-year-old species worried it doesn't have another evolution in it
+215	Abdullah	irony	fan at dodger stadium gets really comfortable
+215	Shane	satire	fan at dodger stadium gets really comfortable
+216	Abdullah	none	longtime sexual fantasy awkwardly fulfilled
+216	Shane	irony	longtime sexual fantasy awkwardly fulfilled
+217	Abdullah	none	you'll want to get inked after seeing this tattoo artist's masterful work
+217	Shane	none	you'll want to get inked after seeing this tattoo artist's masterful work
+218	Abdullah	humor	man brings visiting parents into office to meet coworkers who can't stand him
+218	Shane	humor	man brings visiting parents into office to meet coworkers who can't stand him
+219	Abdullah	satire	dazed jeff bezos realizes he spent entire conversation thinking about how to automate person talking to him
+219	Shane	satire	dazed jeff bezos realizes he spent entire conversation thinking about how to automate person talking to him
+220	Abdullah	none	gop sen. bob corker: trump hasn't demonstrated 'stability' or 'competence'
+220	Shane	none	gop sen. bob corker: trump hasn't demonstrated 'stability' or 'competence'
+221	Abdullah	humor	70-year-old woman decides it time to start dressing entirely in purple
+221	Shane	humor	70-year-old woman decides it time to start dressing entirely in purple
+222	Abdullah	satire	gary busey nearly drowns recovering pork chop from swimming pool
+222	Shane	satire	gary busey nearly drowns recovering pork chop from swimming pool
+223	Abdullah	none	she dreamed of africa -- and then she was sent there
+223	Shane	none	she dreamed of africa -- and then she was sent there
+224	Abdullah	humor	venus added to registry of historically significant planets
+224	Shane	humor	venus added to registry of historically significant planets
+225	Abdullah	humor	israeli bus driver wants really big raise
+225	Shane	satire	israeli bus driver wants really big raise
+226	Abdullah	humor	woman can't wait to get home and take off uncomfortable persona
+226	Shane	irony	woman can't wait to get home and take off uncomfortable persona
+227	Abdullah	humor	god admits heaven was way cooler in the '70s
+227	Shane	humor	god admits heaven was way cooler in the '70s
+228	Abdullah	humor	argument about capital of australia occurs 10 feet from encyclopedia
+228	Shane	humor	argument about capital of australia occurs 10 feet from encyclopedia
+229	Abdullah	satire	dollar losing value against the quarter
+229	Shane	irony	dollar losing value against the quarter
+230	Abdullah	none	the real reason your hands are always cold
+230	Shane	none	the real reason your hands are always cold
+231	Abdullah	none	chicago city council approves $13 minimum wage
+231	Shane	none	chicago city council approves $13 minimum wage
+232	Abdullah	none	newly blond kanye west makes first appearance after hospitalization
+232	Shane	none	newly blond kanye west makes first appearance after hospitalization
+233	Abdullah	none	area man demands more starches
+233	Shane	humor	area man demands more starches
+234	Abdullah	satire	17 pieces of feminist jewelry that'll show you're a nasty woman
+234	Shane	none	17 pieces of feminist jewelry that'll show you're a nasty woman
+235	Abdullah	satire	new hampshire returns to obscurity
+235	Shane	humor	new hampshire returns to obscurity
+236	Abdullah	satire	can the new sfmoma turn tech-bros into art patrons?
+236	Shane	none	can the new sfmoma turn tech-bros into art patrons?
+237	Abdullah	humor	teen zebra doesn't give a shit how much you honk, he's not getting out of road
+237	Shane	satire	teen zebra doesn't give a shit how much you honk, he's not getting out of road
+238	Abdullah	humor	report: just 2 more days and you can forget all of this, vanish into 'red dead redemption 2'
+238	Shane	humor	report: just 2 more days and you can forget all of this, vanish into 'red dead redemption 2'
+239	Abdullah	irony	prominent fisheries scientist under fire for seafood industry funding
+239	Shane	none	prominent fisheries scientist under fire for seafood industry funding
+240	Abdullah	satire	ted cruz attempts to connect with voters by wearing more handsome man's face as mask
+240	Shane	satire	ted cruz attempts to connect with voters by wearing more handsome man's face as mask
+241	Abdullah	none	california wildfire death toll rises to 4 as more bodies found
+241	Shane	none	california wildfire death toll rises to 4 as more bodies found
+242	Abdullah	humor	pistachio-eating man achieves 'flow' state
+242	Shane	satire	pistachio-eating man achieves 'flow' state
+243	Abdullah	satire	on this week's cheap celeb finds, kylie jenner wears a $40 bikini top
+243	Shane	none	on this week's cheap celeb finds, kylie jenner wears a $40 bikini top
+244	Abdullah	none	fda to screen all donated blood for the zika virus
+244	Shane	none	fda to screen all donated blood for the zika virus
+245	Abdullah	satire	david letterman would like to depose donald trump and 'put him in a home'
+245	Shane	none	david letterman would like to depose donald trump and 'put him in a home'
+246	Abdullah	none	gop's confirmation of lynch won't change anything with obama
+246	Shane	none	gop's confirmation of lynch won't change anything with obama
+247	Abdullah	irony	nation's bicyclists remove helmets for head injury month
+247	Shane	irony	nation's bicyclists remove helmets for head injury month
+248	Abdullah	satire	slow-thinking bystander weighing pros and cons of pulling man out of river
+248	Shane	humor	slow-thinking bystander weighing pros and cons of pulling man out of river
+249	Abdullah	irony	attempt to meet different types of people thwarted by partygoer who also watches 'friday night lights'
+249	Shane	satire	attempt to meet different types of people thwarted by partygoer who also watches 'friday night lights'
+250	Abdullah	humor	americans are embarrassed by farts, says least surprising poll ever
+250	Shane	none	americans are embarrassed by farts, says least surprising poll ever

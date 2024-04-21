@@ -1,0 +1,500 @@
+1	adjudicated	humor	woman who teaches special-needs children killing it at dinner party
+2	adjudicated	satire	dnc criticized for overly restrictive debate rules requiring candidates have at least one policy position
+3	adjudicated	irony	custodian taken into custody
+4	adjudicated	none	mike pence takes oath of office as country's next vice president
+5	adjudicated	humor	bedtime story from fucking bible again
+6	adjudicated	satire	literary theorists admit they still have no idea what animal farm about
+7	adjudicated	irony	epa accidentally spills millions of gallons of waste, turning river orange
+8	adjudicated	none	new york times' corrects story by admitting they burned venezuela aid convoy
+9	adjudicated	none	alexa and google home record what you say. but what happens to that data?
+10	adjudicated	satire	johnson & johnson hoping brand won't be tarnished if they dip into lethal injection game
+11	adjudicated	humor	man always insists you toss him keys rather than just hand them to him
+12	adjudicated	none	fired u.s. attorney preet bharara said to have been investigating hhs secretary tom price
+13	adjudicated	humor	hot-rod-lincoln-driving son may have contributed to father's alcoholism
+14	adjudicated	none	g.w. bush: 'not your government's choice' if you worship or not
+15	adjudicated	humor	man huffs keyboard spray after crash as cop watches
+16	adjudicated	none	minimum-wage increases: the justice of redistribution
+17	adjudicated	humor	roommate never seems to leave apartment
+18	adjudicated	none	woman 'dragged' from west virginia hearing after listing lawmakers' oil and gas donors
+19	adjudicated	satire	ford: new f-150 pickup truck capable of crushing a big turtle in one go
+20	adjudicated	none	the milestone i wasn't ready for
+21	adjudicated	none	a new shade of green collaborations taking shape in boulder
+22	adjudicated	none	why we 'freeze' in uncomfortable situations
+23	adjudicated	none	americans gave record $373.25 billion to charity last year
+24	adjudicated	irony	loser older brother looked up to
+25	adjudicated	satire	tim burton worried he going through a bit of a 14-movie slump
+26	adjudicated	irony	u.s. stock market soars after bernanke's reassuring comments about 'pacific rim'
+27	adjudicated	humor	washed-up toddler can't point out things like he used to
+28	adjudicated	none	shelling from royal caribbean's m.s. 'allure' sinks carnival cruise vessel that crossed into disputed waters
+29	adjudicated	satire	lindsay wagner to star in anything offered her
+30	adjudicated	none	dozens of leads, no arrests in ferguson police shooting
+31	adjudicated	satire	pope leaves detailed instructions for taking care of holy spirit while he out of town
+32	adjudicated	none	the pta mom and the power couple from hell
+33	adjudicated	irony	man passes away surrounded by knife-wielding loved ones
+34	adjudicated	none	#metoo, and it's time for change
+35	adjudicated	none	trump jokes about fate of vulnerable gop senator during health care talks
+36	adjudicated	irony	steven spielberg criticizes netflix for ruining golden age of pandering big-budget corporate films
+37	adjudicated	humor	study finds people on dates know within 30 seconds if other person is newt gingrich
+38	adjudicated	humor	report: 97% of inner tube occupants agree it doesn't get any better than this
+39	adjudicated	humor	woman doomed to years of hippo-themed gifts
+40	adjudicated	satire	cryptic long john silver's campaign just says 'you are the bait now'
+41	adjudicated	satire	perfect girlfriend blames self for everything
+42	adjudicated	humor	awkward encounter not awkward at all when masturbated about
+43	adjudicated	satire	man wondering when 'ocean's 8' trailer going to show film's protagonist
+44	adjudicated	none	ryan handed romney's latest political positions before walking on stage
+45	adjudicated	none	what do you know about the colors of nature?
+46	adjudicated	none	the only shopping guide for cyber monday you need
+47	adjudicated	satire	congress relieved to admit it's not going to accomplish anything this year
+48	adjudicated	none	gentle ben biographer's shocking new book reveals famous bear's 28-pine-marten-a-day habit
+49	adjudicated	humor	shrimp would be pissed if he could see the lame party he's going to be served at
+50	adjudicated	humor	area man not about to tie his shoe when he's 4 blocks away from sitting down
+51	adjudicated	satire	newly sober kavanaugh introduces sponsor who says he needs supreme court seat as part of recovery
+52	adjudicated	none	why and how to eliminate mortgage charges by third parties
+53	adjudicated	satire	data-entry clerk reapplies carmex at 17-minute intervals
+54	adjudicated	none	drug-resistant bacteria often lurk in children's, dogs' sandboxes
+55	adjudicated	none	taylor swift threw lorde a celeb-filled birthday party fit for royals
+56	adjudicated	none	11 unexpected ways to use grapefruit
+57	adjudicated	satire	latest department of interior river count comes up one short
+58	adjudicated	none	ted cruz may be too conservative to stop trump
+59	adjudicated	none	what happened' and moving on from the 2016 election
+60	adjudicated	none	a quiet place' reclaims top spot at the box office
+61	adjudicated	irony	perfectly good dead body cremated
+62	adjudicated	satire	trump suggests florida students could have done more to prevent deadly shooting
+63	adjudicated	irony	man with 3 kids going to make great father someday
+64	adjudicated	satire	true blood' characters openly talking about how they can't wait for episode to end
+65	adjudicated	none	sean penn sues 'empire' creator lee daniels for claiming the actor hits women
+66	adjudicated	none	congress passes natural disaster digital-enhancement funding
+67	adjudicated	humor	report: ocean levels could rise foot or more if lots of people go swimming
+68	adjudicated	none	to my muslim best friend
+69	adjudicated	satire	new beatles box set features 172 unreleased songs about wanting to hold hands
+70	adjudicated	satire	larry king's frothing saliva hosed off bette midler
+71	adjudicated	none	how netflix's 'girlboss' perpetuates negative stereotypes
+72	adjudicated	humor	dog keeps iceland awake all night
+73	adjudicated	none	boehner opens door to suing obama over iran deal
+74	adjudicated	humor	delta pilot refuses to land until gun control legislation passed
+75	adjudicated	none	oscars 2018: the complete winners list
+76	adjudicated	satire	obamacare helps uninsured americans become blindingly enraged at insurance companies
+77	adjudicated	none	the best decluttering advice we've heard
+78	adjudicated	none	once homeless student who worked 4 jobs to support family graduates college
+79	adjudicated	none	a farm boy meets his prince in a beautiful new children's book
+80	adjudicated	satire	novelist thinks people shrug 10 times more than they actually do
+81	adjudicated	none	adorable cotton candy girl is the hero we all need right now
+82	adjudicated	humor	nfl team spends days hiding 'fresh prince of bel-air' lyrics in cryptic tweets
+83	adjudicated	none	benedict cumberbatch prepares for battle in magical new 'doctor strange' trailer
+84	adjudicated	none	emails: how the obama administration secretly approved expanding piece of enbridge's "keystone xl clone"
+85	adjudicated	none	why going abroad isn't always rainbows and butterflies
+86	adjudicated	none	a global meditation for world peace, december 12, 2014
+87	adjudicated	satire	department of transportation allocates $400 million for national shortcut
+88	adjudicated	satire	onion social ceo promises algorithm will now automatically label racist, sexist content as 'debatable'
+89	adjudicated	none	it's not about leading; it's about leading well
+90	adjudicated	none	the water war that will decide the fate of 1 in 8 americans
+91	adjudicated	none	latinos and the 2014 elections: five reasons to vote in november
+92	adjudicated	none	couple married 75 years renew their vows in sweet nursing home ceremony
+93	adjudicated	satire	area bird creeped out by bird watcher
+94	adjudicated	humor	asshole even shoots pool like an asshole
+95	adjudicated	irony	yes, donald trump is actually going on 'saturday night live' tonight
+96	adjudicated	irony	how to avoid ending up in a tree in the amazon
+97	adjudicated	satire	eddie murphy fucks self for $20 million
+98	adjudicated	satire	man at party comes crawling back to conversation he thought he could do better than
+99	adjudicated	none	9 personal trainer tips for mastering the weight room
+100	adjudicated	satire	gamers rejoice! this potion restores 20 hp
+101	adjudicated	satire	kasich trying to find other states where he is beloved multi-term governor
+102	adjudicated	satire	man only has himself to blame for what's in targeted banner ad
+103	adjudicated	none	divorcing parents: 10 questions to ask before fighting over the kids
+104	adjudicated	irony	parents gently explain to son why family dog had to be blown up with dynamite
+105	adjudicated	satire	obama finally tells rambling tom vilsack to shut the fuck up during cabinet meeting
+106	adjudicated	irony	the atheist and the nun
+107	adjudicated	none	slight drop in measles vaccinations could triple infections in u.s. kids
+108	adjudicated	none	local grandmother feared dead after appearing in woman's profile picture
+109	adjudicated	none	dwight howard on helping to empower and educate girls in east africa
+110	adjudicated	none	nick cannon wilds out on twitter to shut down those mariah carey rumors
+111	adjudicated	none	craig sager brings his a-game to facetime fellow cancer patient
+112	adjudicated	satire	single mother hogging 2 jobs
+113	adjudicated	none	starting unicorn companies: fireeye
+114	adjudicated	none	cops and educators agree: arming teachers is a terrible idea
+115	adjudicated	none	browns owner haslam mixes republican politics with football
+116	adjudicated	none	climate science on trial again
+117	adjudicated	humor	rookie trucker always on cb to mother
+118	adjudicated	satire	usda admits weight loss not possible for people who don't like salmon
+119	adjudicated	none	trump's travel ban does nothing to stop the most deadly form of terror in the u.s.
+120	adjudicated	humor	toddler adjusting to society after serving 2-minute timeout
+121	adjudicated	none	there isn't a “war on christmas.” there's a fight for inclusivity.
+122	adjudicated	satire	aides gently tell trump he can't bring all his gold lion statues on airplane
+123	adjudicated	none	al qaeda chief calls for more kidnappings
+124	adjudicated	satire	candy purchase puts yet more money in raisinets' bloated coffers
+125	adjudicated	irony	grandfather seems proud of how many people polio killed
+126	adjudicated	irony	ellen goes hetero for halloween!
+127	adjudicated	none	new report finds moving to isolated seaside cottage greatly increases productivity
+128	adjudicated	none	a week in brooklyn, new york, on a $55,000 salary
+129	adjudicated	none	justin timberlake wants his son to be inspired by charlottesville's strength
+130	adjudicated	none	ahead of hurricane irma, miami detained homeless people against their will
+131	adjudicated	none	bertha cáceres: 'my mother's is not the first assassination. i don't want another'
+132	adjudicated	humor	study: 80 percent of all hermits recovering from broken hearts
+133	adjudicated	none	what's in your mailbox? tips on what to do when uncle sam comes knocking
+134	adjudicated	none	community rallies to save eyesore
+135	adjudicated	satire	mta unveils $28 billion plan to renovate subway masturbators
+136	adjudicated	satire	trump suggests iran brought deadly terrorist attacks upon itself
+137	adjudicated	satire	kavanaugh surprised senate not questioning fact he never went to law school
+138	adjudicated	satire	8 things guns compensate for (besides your penis)
+139	adjudicated	satire	the u.s. military can't get out (no matter the country or the conflict)
+140	adjudicated	none	establishment rallies 'round rubio
+141	adjudicated	irony	lonely elderly man visits pond to pelt ducks with rocks
+142	adjudicated	satire	hentai message board features surprisingly close-knit, supportive community
+143	adjudicated	satire	texas vows to reclaim title of most regressive state from arizona
+144	adjudicated	none	house vote maintains military ability to jail people without trial
+145	adjudicated	humor	oh, area man's aching back
+146	adjudicated	satire	religious scholars discover jesus christ delivered by dr. sidney adler
+147	adjudicated	none	space shuttle endeavour: what's in it for me?
+148	adjudicated	satire	trump casually mills about supreme court changing rooms ahead of state of the union address
+149	adjudicated	none	psa: these are the places where it's ok to breastfeed
+150	adjudicated	none	fellow millennial voters: no one owes us a damn thing
+151	adjudicated	none	surgical tech in needle-swap scandal at swedish medical center has hiv
+152	adjudicated	satire	guy who got laid off just glad multi-national corporation will make it
+153	adjudicated	none	k-y introduces new line of jam
+154	adjudicated	humor	everything reminds man of 'her'
+155	adjudicated	humor	hampton inn concierge has long working relationship with chili's hostess
+156	adjudicated	satire	trump unveils exclusive double platinum–level press room for only select few journalists
+157	adjudicated	satire	tenants forced to clean apartment before telling landlord about mice
+158	adjudicated	satire	pope francis finds self in hell after taking wrong turn in vatican catacombs
+159	adjudicated	satire	entomologists retract new spider species discovery after determining it actually just clump of dust, hair
+160	adjudicated	none	miami-dade county bans styrofoam from parks, beaches
+161	adjudicated	none	even as 2018 looms, most in congress nearly always vote with trump
+162	adjudicated	none	forged federal document complicates a growing fight over national monument designation in utah
+163	adjudicated	none	trusting in grace
+164	adjudicated	humor	report: some people wake up when it's still dark outside
+165	adjudicated	none	this canadian mega-mall is your new vacation spot
+166	adjudicated	none	cheney clotheslines aide
+167	adjudicated	humor	groom not about to let some 6-year-old dance with his bride
+168	adjudicated	none	the color of money in silicon valley
+169	adjudicated	none	the most flattering eyeliner technique for your eye shape
+170	adjudicated	satire	ohio state uses t-shirt blaster to pass out diplomas
+171	adjudicated	none	what's leaving netflix in may 2016?
+172	adjudicated	satire	experts warn situation in gaza will get worse before it gets much worse
+173	adjudicated	satire	report: kanye west, bill gates, tom hanks all currently reading, enjoying this article
+174	adjudicated	none	dustin lance black has great reply after being told two men shouldn't raise kids
+175	adjudicated	satire	trump warns removing confederate statues could be slippery slope to eliminating racism entirely
+176	adjudicated	none	france's far-right national front unveils new name with pro-nazi past
+177	adjudicated	none	mutual selection process
+178	adjudicated	satire	conservative newspaper editorial boards line up behind hillary clinton
+179	adjudicated	satire	god admits he too close to creation to judge whether it any good or not
+180	adjudicated	satire	constrictive dress severs rachel mcadams at waist
+181	adjudicated	satire	bill clinton starts own presidential school
+182	adjudicated	none	psychologists push for smartphone warning labels
+183	adjudicated	humor	older cafeteria monitor not a teacher or parent or anything
+184	adjudicated	humor	parents spend first 4 years of child's life fluctuating wildly between hoping child stays asleep, hoping child wakes up
+185	adjudicated	none	#dearbetsy campaign implores donald trump's education pick to protect campus rape rules
+186	adjudicated	irony	underworld health organization launches initiative to improve incubus immortality rate
+187	adjudicated	satire	george w. bush having trouble finding decent cocaine since leaving white house
+188	adjudicated	none	two non-binary college activists on creating space for themselves on campus
+189	adjudicated	none	top north korean aide in charge of negotiating with south korea dies
+190	adjudicated	satire	media reminds public not to overemphasize super tuesday results or draw any sort of wide-reaching conclusions
+191	adjudicated	none	lessons from losing a friend
+192	adjudicated	humor	ping-pong rules adjusted for girlfriend
+193	adjudicated	irony	spanx introduces new shapewear hood to smooth unsightly heads
+194	adjudicated	none	vladimir putin, florida man, arrested for trespassing at supermarket
+195	adjudicated	humor	report: only 2% of internet worth sitting through 15-second ad
+196	adjudicated	satire	civil war historians posit 'you had to be there' theory
+197	adjudicated	satire	distrust and verify: an appropriate u.s. government response to sudan government actions
+198	adjudicated	satire	assistant uses cake to smuggle cake-decorating set to martha stewart
+199	adjudicated	satire	ted cruz opens up to town hall audience about early days as larva feeding on porcupine carcass
+200	adjudicated	satire	american media reports news other than zoo's escaped cobra as if anything else really matters
+201	adjudicated	none	bear eats 20 pounds of dog food, promptly dozes off
+202	adjudicated	none	americans say 2-to-1 that we never should have invaded iraq
+203	adjudicated	humor	man approaches unfamiliar shower knobs like he breaking wild stallion
+204	adjudicated	humor	on the road to the emmys with my entourage aka my kids
+205	adjudicated	satire	cnn producer on hunt for saddest-looking fuck with convention button collection
+206	adjudicated	none	college basketball player with inoperable brain tumor raises $1 million for charity
+207	adjudicated	humor	middle-aged couple sick of 31-year-old son always trying to set them up with other parents
+208	adjudicated	none	the '7th heaven' cast reunites for the first time in 8 years
+209	adjudicated	satire	liu xiaobo - going to be pretty tough for the chinese government to kill now
+210	adjudicated	none	mike pence: the birther issue is over
+211	adjudicated	none	100 million more people will be in poverty by 2030 without action on climate, world bank says
+212	adjudicated	none	lindsey graham warns trump: firing mueller would be 'beginning of the end'
+213	adjudicated	none	what refugees really want
+214	adjudicated	irony	30-million-year-old species worried it doesn't have another evolution in it
+215	adjudicated	satire	fan at dodger stadium gets really comfortable
+216	adjudicated	none	longtime sexual fantasy awkwardly fulfilled
+217	adjudicated	none	you'll want to get inked after seeing this tattoo artist's masterful work
+218	adjudicated	humor	man brings visiting parents into office to meet coworkers who can't stand him
+219	adjudicated	satire	dazed jeff bezos realizes he spent entire conversation thinking about how to automate person talking to him
+220	adjudicated	none	gop sen. bob corker: trump hasn't demonstrated 'stability' or 'competence'
+221	adjudicated	humor	70-year-old woman decides it time to start dressing entirely in purple
+222	adjudicated	satire	gary busey nearly drowns recovering pork chop from swimming pool
+223	adjudicated	none	she dreamed of africa -- and then she was sent there
+224	adjudicated	humor	venus added to registry of historically significant planets
+225	adjudicated	satire	israeli bus driver wants really big raise
+226	adjudicated	humor	woman can't wait to get home and take off uncomfortable persona
+227	adjudicated	humor	god admits heaven was way cooler in the '70s
+228	adjudicated	humor	argument about capital of australia occurs 10 feet from encyclopedia
+229	adjudicated	irony	dollar losing value against the quarter
+230	adjudicated	none	the real reason your hands are always cold
+231	adjudicated	none	chicago city council approves $13 minimum wage
+232	adjudicated	none	newly blond kanye west makes first appearance after hospitalization
+233	adjudicated	humor	area man demands more starches
+234	adjudicated	satire	17 pieces of feminist jewelry that'll show you're a nasty woman
+235	adjudicated	satire	new hampshire returns to obscurity
+236	adjudicated	satire	can the new sfmoma turn tech-bros into art patrons?
+237	adjudicated	humor	teen zebra doesn't give a shit how much you honk, he's not getting out of road
+238	adjudicated	humor	report: just 2 more days and you can forget all of this, vanish into 'red dead redemption 2'
+239	adjudicated	none	prominent fisheries scientist under fire for seafood industry funding
+240	adjudicated	satire	ted cruz attempts to connect with voters by wearing more handsome man's face as mask
+241	adjudicated	none	california wildfire death toll rises to 4 as more bodies found
+242	adjudicated	humor	pistachio-eating man achieves 'flow' state
+243	adjudicated	satire	on this week's cheap celeb finds, kylie jenner wears a $40 bikini top
+244	adjudicated	none	fda to screen all donated blood for the zika virus
+245	adjudicated	none	david letterman would like to depose donald trump and 'put him in a home'
+246	adjudicated	none	gop's confirmation of lynch won't change anything with obama
+247	adjudicated	irony	nation's bicyclists remove helmets for head injury month
+248	adjudicated	humor	slow-thinking bystander weighing pros and cons of pulling man out of river
+249	adjudicated	satire	attempt to meet different types of people thwarted by partygoer who also watches 'friday night lights'
+250	adjudicated	humor	americans are embarrassed by farts, says least surprising poll ever
+251	adjudicated	satire	egyptian populace to hopefully get something better than democracy out of all this
+252	adjudicated	none	38 of the best macaroni and cheese recipes on planet earth
+253	adjudicated	satire	trump touts success of singapore summit after securing $10 billion trade deal to sell nuclear warheads to north korea
+254	adjudicated	none	these republicans have a plan for tackling climate change
+255	adjudicated	none	running in tap shoes: choreographer janine molinari on teaching broadway kids and other adventures in dance
+256	adjudicated	satire	bernie sanders asks anyone who's serious about breaking up big banks to meet him on corner of canal and bowery at midnight
+257	adjudicated	irony	3822 voted america's favorite pin number
+258	adjudicated	none	cooking off the cuff: bluefish in saor – a new york take on a venetian favorite
+259	adjudicated	none	we need to treat gun violence like a public health problem
+260	adjudicated	satire	steve bannon mixes discarded climate change report with saliva to build final wall of nest
+261	adjudicated	none	cam newton thanks panthers fans after nfc championship season
+262	adjudicated	none	saturday's morning email: funnies edition
+263	adjudicated	satire	trump thanks united nations for inviting him to their country
+264	adjudicated	none	microsoft fights u.s. government over data requests
+265	adjudicated	satire	lost' possibly still airing in parallel dimension, desperate fans report
+266	adjudicated	humor	oh god, teacher arranged desks in giant circle
+267	adjudicated	humor	mother ferries 4 more shirt options back to son in gap dressing room
+268	adjudicated	none	three stylish ways to wear one puffer vest
+269	adjudicated	satire	buchanan reveals thousands of americans made in china
+270	adjudicated	humor	study links drinking while pregnant to being at kid rock concert
+271	adjudicated	irony	dermatologist recommends not caring so much what other people think
+272	adjudicated	satire	fda recommends at least 3 servings of foods with word 'fruit' on box
+273	adjudicated	satire	u.s. economy continues campaigning for barack obama
+274	adjudicated	satire	un quietly pushed into east river
+275	adjudicated	none	how to future proof your workplace
+276	adjudicated	satire	working artist has developed thick skin for sound career advice
+277	adjudicated	irony	area man guesses he'll learn the difference between shiites and sunnis
+278	adjudicated	none	the leftovers recap: did they really do it? in 'cairo'
+279	adjudicated	humor	bejewel your cat's butt with twinkle tush
+280	adjudicated	irony	boss wants friendly, relaxed company culture in place by friday
+281	adjudicated	irony	clinton vetoes 'stab clinton' bill
+282	adjudicated	irony	trumpet player wishes someone would sound horns for him when he entered castle gates for once
+283	adjudicated	irony	third world disease eliminated with hot-air hand dryers
+284	adjudicated	satire	mexican economic minister prepared 'to talk to the devil' if trump wins
+285	adjudicated	satire	dogs in asia: doctors not dinner
+286	adjudicated	irony	financial planner advises shorter life span
+287	adjudicated	irony	nation's sleep experts recommend cutting down on strobe light before bedtime
+288	adjudicated	none	paul ryan on removing devin nunes: 'the tax cuts are working'
+289	adjudicated	none	mom sentenced for encouraging boyfriend's sex assault on baby
+290	adjudicated	none	the embarrassing skin problem nobody talks about
+291	adjudicated	humor	not snowing over here, man on phone reports
+292	adjudicated	none	monsanto spin doctors target cancer scientist in flawed reuters story
+293	adjudicated	satire	man sentenced to 3 months probation for 17th-degree murder
+294	adjudicated	none	homeless girl scouts aim to sell 6,000 boxes of cookies in nyc
+295	adjudicated	none	o'casey's plays return to stage at philly irish theater
+296	adjudicated	none	these gay dads prove you're never too old to start your own beautiful family
+297	adjudicated	none	this artist gives renaissance-style sculptures a goofy modern twist
+298	adjudicated	satire	an artist confronts his possible futures
+299	adjudicated	satire	ken lay's corpse sentenced to prison
+300	adjudicated	satire	conscious politics: hillary at the helm
+301	adjudicated	none	for 'the interview,' even negative publicity (like a massive sony hack) is good publicity
+302	adjudicated	none	donald trump helped spread birtherism. now he can't stop it.
+303	adjudicated	none	10 things to keep in mind when telling your kids about the divorce
+304	adjudicated	humor	nobody knows what third light switch does
+305	adjudicated	none	suspected mh370 debris arrives in france for investigation
+306	adjudicated	none	why are trans people left out of lgbt history so often?
+307	adjudicated	none	owen tate and his modern day factory
+308	adjudicated	none	the problem with 'celebrity queerbaiting'
+309	adjudicated	none	how good do you want to be?
+310	adjudicated	none	amanda peet was really excited about her husband's emmy win for 'game of thrones'
+311	adjudicated	humor	pool noodle has another season in her
+312	adjudicated	humor	5-year-old figures he has a year left of peeing at urinals with his pants all the way down
+313	adjudicated	satire	bush elected president of iraq
+314	adjudicated	satire	fred durst spray paints 'limp bizkit' on bridge
+315	adjudicated	none	desperate parents of abducted nigerian girls lose hope in government, turn to u.n.
+316	adjudicated	irony	stephen colbert urges his viewers to go watch jimmy kimmel
+317	adjudicated	satire	grand theft auto v' missions to focus largely on tutoring, community outreach
+318	adjudicated	satire	cubs fans caught in time loop now that 'next year' is in the past
+319	adjudicated	none	the olympic hangover is real
+320	adjudicated	satire	morning after morning after pill re-impregnates guilt-ridden women
+321	adjudicated	satire	mayor hits on crazy idea of developing city's waterfront, green spaces
+322	adjudicated	humor	mom sends blurry, indistinct photo of computer screen showing boots you might like
+323	adjudicated	satire	roomba claims another pet gerbil
+324	adjudicated	irony	hero firefighter: 'i'm a hero'
+325	adjudicated	irony	friend tells depressing details of how he's covered by freelancers union
+326	adjudicated	irony	dr. scholl's introduces new freeze-away toe remover
+327	adjudicated	satire	study: major shift in media landscape occurs every 6 seconds
+328	adjudicated	none	andy cohen and taylor swift are over their katy perry drama
+329	adjudicated	satire	hungover guillermo del toro panics after realizing he promised to write new movie for everyone at oscars after-party
+330	adjudicated	humor	drunken man careens wildly across internet
+331	adjudicated	irony	newly-discovered smallpox vials more dangerous than thought
+332	adjudicated	none	barbara boxer tells bob corker it's 'reckless' and 'irresponsible' to vote now on iran bill
+333	adjudicated	satire	gop leaders move goalposts on opposing trump to him being filmed masturbating on u.s. flag in arlington cemetery
+334	adjudicated	none	private vehicles beat ambulances in saving gunshot and stabbing victims
+335	adjudicated	satire	clinton tests positive for presidency-enhancing drugs
+336	adjudicated	humor	on being cold, tired, and hungry... and a jerk!
+337	adjudicated	none	what's next for uber?
+338	adjudicated	none	local student also a poet
+339	adjudicated	satire	irs now requiring taxpayers to tip
+340	adjudicated	satire	women in hollywood perfectly okay they not represented behind the scenes of 'the blacklist'
+341	adjudicated	satire	beyond meat researchers announce creation of fully conscious, plant-based veal calf
+342	adjudicated	satire	romney during victory speech: 'man, this is a weak field'
+343	adjudicated	humor	area man's bathroom a monument to ongoing war against his own disgusting body
+344	adjudicated	satire	once they put me on cheeses, i will finally be happy,' says costco employee handing out free vienna sausage samples
+345	adjudicated	satire	wealthy father nervously waits for response after sending donations to son's top college choices
+346	adjudicated	humor	chemicals that pushed man's ancestors to run down wild boar flare at sight of white cheddar popcorn bag
+347	adjudicated	none	actor michael rapaport takes a knee, unloads on 'dumb motherf--ker' donald trump
+348	adjudicated	satire	trump 'office' parody is a glimpse at the buffoonery we have in store
+349	adjudicated	humor	negative review of 'a wrinkle in time' peppered with critic assuring readers he still totally supports diversity
+350	adjudicated	none	a story is literally bursting off the page in this intricate fairy tale photograph
+351	adjudicated	none	chelsea clinton calls to stop the demand for ivory to protect africa's elephants
+352	adjudicated	humor	parents fighting about who's unhappier
+353	adjudicated	none	egyptian death sentence for soccer fans puts president's iron grip to the test
+354	adjudicated	irony	chorus to 'juke box hero' playing on repeat in monk's bowed head
+355	adjudicated	humor	area man can't imagine life without this woman
+356	adjudicated	none	dc police investigating possible hate crime after 2 men beaten in alleged anti-gay attack
+357	adjudicated	humor	area woman has no idea she will hate jennifer lawrence 7 years from now
+358	adjudicated	none	rep. trey gowdy endorses marco rubio for president
+359	adjudicated	humor	class clown has nothing on wilmot proviso
+360	adjudicated	none	google's expansion in boulder has its critics
+361	adjudicated	none	vet sets out to swim mississippi river in memory of fallen soliders
+362	adjudicated	satire	man miscast in role of father
+363	adjudicated	humor	big wrench cool
+364	adjudicated	none	democrats split over opposing government funding bill that doesn't protect dreamers
+365	adjudicated	satire	report: nation's ditches overflowing with children of worried parents
+366	adjudicated	satire	amazon warehouses stocked with 20,000 doctors in preparation for healthcare launch
+367	adjudicated	none	these strangers rushing to help one another remind us we're not alone
+368	adjudicated	none	will police unions battle houses of worship or seek reconciliation?
+369	adjudicated	none	fox news host bret baier admits clinton indictment report was a 'mistake'
+370	adjudicated	none	u.s. will no longer punish families of hostages for paying ransom
+371	adjudicated	none	teenage pro surfer reportedly killed catching hurricane irma's waves in barbados
+372	adjudicated	none	so you're hiring a consultant? -- a few do's and dont's
+373	adjudicated	none	steven spielberg: can his career be salvaged?
+374	adjudicated	none	gardner loves conservative radio shows but not town halls
+375	adjudicated	none	stephen curry signs an insane deal with golden state warriors
+376	adjudicated	none	ted cruz wins idaho republican primary
+377	adjudicated	irony	poor kwanzaa sales disappoint retailers
+378	adjudicated	none	dinner recipe ideas to cook with your roommate
+379	adjudicated	none	donald trump raises the stakes for a potential debate with bernie sanders
+380	adjudicated	satire	dave matthews band apologizes after tour bus dumps another 800 pounds of human shit onto same boat full of people
+381	adjudicated	none	report: nurse who fought ebola quarantine to leave maine
+382	adjudicated	none	does being neurotic really make you more creative?
+383	adjudicated	satire	pneumonia virus terrified after remembering what clintons capable of
+384	adjudicated	irony	man deftly downplays his neighborhood to coworker thinking of moving there
+385	adjudicated	none	dreamers live a nightmare while congress runs down the clock
+386	adjudicated	none	hillary clinton gets a clean bill of health from her doctor
+387	adjudicated	none	david petraeus: white house is wrong, generals are 'fair game' for criticism
+388	adjudicated	irony	donald trump reportedly approves race summit with colin kaepernick
+389	adjudicated	none	fusion summit will gather youth leaders from protest movements around the world
+390	adjudicated	humor	study: obsessive-compulsive disorder obsessive-compulsive disorder obsessive-compulsive disorder
+391	adjudicated	none	west virginia teachers plan statewide strike
+392	adjudicated	none	boehner vows to leave successor with clean slate
+393	adjudicated	humor	terrified laptop wakes up inside case
+394	adjudicated	none	queer eye' star antoni porowski strips to his underwear for hanes campaign
+395	adjudicated	irony	back to dock' voted most popular destination among current rowboat passengers
+396	adjudicated	irony	wall wishes it were load-bearing
+397	adjudicated	none	donald trump signs spending bill, averting government shutdown
+398	adjudicated	none	we count, so count us: three reasons it's important to collect census data on lgbtq people
+399	adjudicated	irony	crowd outside white house hoping to catch glimpse of president naked
+400	adjudicated	satire	pathetic, washed-up rock star on fifth decade of doing exactly what he always wanted
+401	adjudicated	none	this is where students get suspended from school the most
+402	adjudicated	none	floating library proves books should be shared in improbable places
+403	adjudicated	none	sanders gains with democratic activists, but clinton still leads
+404	adjudicated	none	heroic officer rescues skunk on same street where he once saved ducklings
+405	adjudicated	humor	björk spotted leaving nightclub with mysterious firefly trapped inside bubble
+406	adjudicated	satire	parents really enjoying cruise
+407	adjudicated	none	rand's filibuster two-fer
+408	adjudicated	none	leah remini claims she was pressured to bring kevin james into scientology
+409	adjudicated	satire	hippie will tell you what the real crime is
+410	adjudicated	none	asexuals are increasingly becoming part of pride month
+411	adjudicated	none	3 habits highly productive people do every day, even if they're 'too busy'
+412	adjudicated	humor	10-year-old yelling at mom to watch cannonball while she's trying to scope out younger men at pool
+413	adjudicated	irony	creative asterisk makes reader unaware of word 'fuck'
+414	adjudicated	none	mike tyson does his best drake impression after seeing 'hotline bling' meme
+415	adjudicated	satire	san francisco photographer shits out another bridge photo
+416	adjudicated	satire	war-torn, blood-soaked kosovo: would bombing it help?
+417	adjudicated	none	elizabeth warren reams gop: 'the system is rigged' against americans
+418	adjudicated	satire	what i'd really like to tell the 25-year-old fired yelp worker
+419	adjudicated	satire	black father gives son the talk about holding literally any object
+420	adjudicated	none	restaurants open on thanksgiving 2014
+421	adjudicated	none	divergent views on the middle east at the un general assembly
+422	adjudicated	irony	stephen colbert gets women from 1776 to react to the first female presidential nominee
+423	adjudicated	satire	report: u.s. parents' top concern is child dying from something they could be blamed for
+424	adjudicated	none	eye-opening social experiment flips the script on domestic violence
+425	adjudicated	none	the walking dead: season 5 finale blasts full afterburners!
+426	adjudicated	none	climate change and trump's board-game patriotism
+427	adjudicated	satire	world's physicists complete study of physics
+428	adjudicated	none	how to re-ignite the spark in your body, mind and soul
+429	adjudicated	humor	jane the virgin' narrator creates a hero for latinos who feel 'trapped' in a conservative culture
+430	adjudicated	irony	local man thinking about becoming asshole
+431	adjudicated	satire	intact benetton shirt miraculously pulled from bangladesh rubble weeks later
+432	adjudicated	none	derek jeter flawlessly hustled president obama in a round of golf
+433	adjudicated	irony	missing boy scout earns publicity badge
+434	adjudicated	humor	report: get back to fucking work
+435	adjudicated	satire	needle-exchange program attracting 'druggies'
+436	adjudicated	none	judge says scotus same-sex marriage ruling doesn't apply to puerto rico
+437	adjudicated	none	trump vows to bring back ohio town's white castle
+438	adjudicated	none	our 10 favorite post-gay movies
+439	adjudicated	none	cher is gifting us with a broadway musical based on her life
+440	adjudicated	none	the vitriol displayed toward colin kaepernick is simply un-american
+441	adjudicated	satire	lost cat, dog on journey die immediately
+442	adjudicated	irony	picking thing up from apartment floor rescheduled for thursday
+443	adjudicated	satire	keystone veto buys environment at least 3 or 4 more hours
+444	adjudicated	humor	enchanted necromancer brings life back to once-dead argument
+445	adjudicated	satire	iran can reform if it follows in china's footsteps
+446	adjudicated	none	who admits it botched response to ebola outbreak
+447	adjudicated	humor	the daily show' searches for a 'real, non-douchey' hoverboard
+448	adjudicated	none	the truly uncool thing 'transformers 5' does to anthony hopkins
+449	adjudicated	none	rudy giuliani just said trump is trying to 'get us back to a free press'
+450	adjudicated	irony	victoria's secret releases sexy black lace sleep apnea mask
+451	adjudicated	humor	family at restaurant reminds grandma what food she likes
+452	adjudicated	irony	the outsider has officially squeezed its way inside the art world
+453	adjudicated	none	dear graduates, put your online superpowers to work
+454	adjudicated	none	revisiting the iran deal
+455	adjudicated	none	wanda hallburton's gps guide for positive self-talk
+456	adjudicated	satire	send in the clowns.. to the zaatari refugee camp
+457	adjudicated	none	rose byrne is expecting her second child with bobby cannavale
+458	adjudicated	none	shaun king has twitter account suspended after cnn email exchange
+459	adjudicated	humor	report: laura's divorce threatens razor-thin democratic majority in family
+460	adjudicated	irony	poll shows increasing number of voters blame founding fathers for starting america
+461	adjudicated	satire	male friends depart for annual camping trip to complain about camping
+462	adjudicated	humor	kelly clarkson covered 'give me one reason' because she's the best
+463	adjudicated	satire	report: causes of death getting less cool over time
+464	adjudicated	irony	trailblazing colleague makes historic contact with people who work on other floor
+465	adjudicated	irony	breakup doesn't seem to have changed relationship
+466	adjudicated	satire	dvd tries to pass off 'language options,' 'scene selection' as special features
+467	adjudicated	satire	obama compiles shortlist of gay, transsexual abortion doctors to replace scalia
+468	adjudicated	satire	dear supreme court, our daughter is watching
+469	adjudicated	satire	dea accepts record $280 million drug bribe
+470	adjudicated	none	florida man who landed gyrocopter at u.s. capitol rejects plea deals
+471	adjudicated	satire	silvio berlusconi swears dancer was of legal age when he paid her for sex using state money
+472	adjudicated	satire	turkey sandwich given locally relevant name
+473	adjudicated	none	motivational psychology and leadership in higher education
+474	adjudicated	humor	who isn't running for president?
+475	adjudicated	humor	plane diverted after ebola virus reclines in seat
+476	adjudicated	satire	trump sits down beside fire with quill and ink for evening writing out tweets
+477	adjudicated	none	bill maher lets 'impish brit' milo yiannopoulos off easy
+478	adjudicated	irony	new dog digs up old dog
+479	adjudicated	humor	weird coworker apparently likes walking two miles to work every day
+480	adjudicated	none	modern gym manners: 8 etiquette tips for your workout
+481	adjudicated	none	rand paul warns donald trump not to choose 'menace' john bolton as secretary of state
+482	adjudicated	none	federal judge refuses to block mississippi anti-lgbt law
+483	adjudicated	satire	hope in students' eyes too much for screenwriting teacher to handle this week
+484	adjudicated	none	a plea to free archbishop mar gregorios yohanna ibrahim and archbishop boulos yazigi who were kidnapped one year ago today
+485	adjudicated	none	u.s. continues proud tradition of  diversity on front lines
+486	adjudicated	satire	tom clancy treated like he's some kind of terrorism expert
+487	adjudicated	satire	85-year-old russian stares at cement wall of room
+488	adjudicated	none	robert e. lee was not an 'honorable man.' he was a white supremacist traitor
+489	adjudicated	none	120,000 adoptions for a no-kill animal shelter
+490	adjudicated	none	new 'star wars: battlefront' trailer lands -- and it's slicker than a greased-up 3po
+491	adjudicated	satire	david cameron to scottish people: 'i'll kill myself if you leave'
+492	adjudicated	none	cincinnati zoo's premature baby hippo takes wobbly first steps
+493	adjudicated	satire	personal trainer has desk
+494	adjudicated	satire	don't bother asking this amazon echo anything
+495	adjudicated	irony	god wondering how far he could throw earth
+496	adjudicated	none	longing to finally visit the cuba of my dreams
+497	adjudicated	none	trump's evangelical advisors urged him to protect dreamers
+498	adjudicated	none	flaws in how we evaluate leaders (from kahneman's thinking, fast and slow)
+499	adjudicated	irony	intel unveils oversized novelty processor
+500	adjudicated	none	ariana grande singlehandedly saves tidal with musical impressions on 'snl'
